@@ -47,11 +47,11 @@ Including Ethernet switch module, bla,
 
 **Designed hardware for H.264 transcoding module**
 
-bla bla, bla, 
+bla bla, bla
 
 **Developed hardware for network-enabled satellite television transmodulator**
 
-MTX, bla, bla, 
+MTX, bla, bla
 
 ### Molex Inc.  Maumelle, Arkansas
 *Electrical Engineer, High Performance Adapters Business Unit (2005-2007)*
