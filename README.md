@@ -33,9 +33,11 @@ Bilingual electrical engineer and project manager with a unique physics backgrou
 *Project Manager, Multimedia Business Unit (2012-currently)*
 
 **Serving as Project Manager for customized, cloud-connected television headend**
+
 Custom design HW/SW/Cloud bla bla bla.
 
 **Led hardware and mechanical development for new multimedia headend**
+
 bla, USB, disipation 
 
 **Led design for networking subsystem of TV platform**
@@ -44,9 +46,11 @@ Including Ethernet switch module, bla,
 *R&D Technical Staff, Multimedia Business Unit (2007-2012)*
 
 **Designed hardware for H.264 transcoding module**
+
 bla bla, bla, 
 
 **Developed hardware for network-enabled satellite television transmodulator**
+
 MTX, bla, bla, 
 
 ### Molex Inc.  Maumelle, Arkansas
