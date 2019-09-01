@@ -31,25 +31,22 @@ Bilingual electrical engineer and project manager with a unique physics backgrou
 
 *Project Manager, Multimedia Business Unit (2012-currently)*
 
-**Serving as Project Manager for customized, cloud-connected television headend**
+**Serving as Project Manager for customized, cloud-connected television headend**  
+Collaborated.
 
-updated transmitter IC to reduce EM emissions, exhibited improved manufacturability and durability. Collaborated with contract manufacturer and PCB fabricator to tune characteristic impedance to optimize signal integrity. Characterized the new assembly, which had improved signal quality, bit error rate, and lower overall cost.
+**Led hardware and mechanical development for new multimedia headend**  
+Developed nmodular headend architecture including a novel, cost-effective networking system for the control plane based on embeddeded USB--several current products are based on this platform and its derivatives. Designed, implemented, and tested new active cooling system for the platform. Led hardware design of all key PCBAs for the system, integrating new microprocessor, FPGA, DRAM systems, and Ethernet IPcores. Collaborated with PCB fabricators to optimize performance and cost of hardware, with firmware developers to rationalize and modularize devicetree, and mechanical designers to improve EMC.
 
-**Led hardware and mechanical development for new multimedia headend**
-Developed new modular headend architecture including a novel, cost-effective networking system for the control plane based on embeddeded USB--several current products are based on this platform and its derivatives. Designed, implemented, and tested new active cooling system for the platform. Led hardware design of all key PCBAs for the system, integrating new microprocessor, FPGA, DRAM system, and Ethernet IPcores. Collaborated with PCB fabricator to optimize performance and cost.
-
-**Led design for networking subsystem of TV platform**
-Including Ethernet switch module, bla,
+**Led design for networking subsystem of TV platform**  
+Specified, designed, and implemented streaming-optimized networking system, from hardware to VLAN level, from line cards PHYs to switch fabric ASIC. System based on gigabit-Ethernet integrates switching ASIC in custom modular hardware, and including microprocessor and FPGA for headend management. Managed development of custom firmware for switch ASIC in external contractor. Developed validation protocols, and production test stand including bespoke hardware and software written in Ruby.
 
 *R&D Technical Staff, Multimedia Business Unit (2007-2012)*
 
-**Designed hardware for H.264 transcoding module**
-
+**Designed hardware for H.264 transcoding module**  
 bla bla, bla
 
-**Developed hardware for network-enabled satellite television transmodulator**
-
-MTX, bla, bla
+**Developed hardware for network-enabled satellite television transmodulator**  
+bla, bla
 
 ### Molex Inc.  Maumelle, Arkansas
 *Electrical Engineer, High Performance Adapters Business Unit (2005-2007)*
