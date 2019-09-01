@@ -35,10 +35,10 @@ Bilingual electrical engineer and project manager with a unique physics backgrou
 Collaborated.
 
 **Led hardware and mechanical development for new multimedia headend**  
-Developed nmodular headend architecture including a novel, cost-effective networking system for the control plane based on embeddeded USB--several current products are based on this platform and its derivatives. Designed, implemented, and tested new active cooling system for the platform. Led hardware design of all key PCBAs for the system, integrating new microprocessor, FPGA, DRAM systems, and Ethernet IPcores. Collaborated with PCB fabricators to optimize performance and cost of hardware, with firmware developers to rationalize and modularize devicetree, and mechanical designers to improve EMC.
+Developed modular headend architecture including a novel, cost-effective networking system for control based on embeddeded USB--several current products are based on this platform and its derivatives. Implemented new active thermal system for the platform. Led hardware design of all key PCBAs for the system, integrating new microprocessor, FPGA, DRAM systems, and Ethernet IPcores. Collaborated with PCB fabricators to optimize performance and cost of hardware, with firmware developers to rationalize and modularize devicetree, and mechanical designers to improve EMC.
 
 **Led design for networking subsystem of TV platform**  
-Specified, designed, and implemented streaming-optimized networking system, from hardware to VLAN level, from line cards PHYs to switch fabric ASIC. System based on gigabit-Ethernet integrates switching ASIC in custom modular hardware, and including microprocessor and FPGA for headend management. Managed development of custom firmware for switch ASIC in external contractor. Developed validation protocols, and production test stand including bespoke hardware and software written in Ruby.
+Specified, designed, and implemented streaming-optimized networking system, from hardware to VLAN level, from line cards PHYs to backplane to switch fabric ASIC. System based on gigabit Ethernet integrates switching ASIC in custom modular hardware, and forms the backbone of Ikusi's current premium TV headend. Switch module also includes microprocessor and FPGA for headend control. Managed development of custom firmware for switch ASIC by external contractor. Developed validation protocols, and production test stand including bespoke hardware and software written in Ruby.
 
 *R&D Technical Staff, Multimedia Business Unit (2007-2012)*
 
