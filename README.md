@@ -1,8 +1,8 @@
 ## Kevin Cook
-Illunbe 9 - 4D
-20011 Donostia-San Sebastián
-kevin137@gmail.com
-+34 625 632 421
+Illunbe 9 - 4D  
+20011 Donostia-San Sebastián  
+kevin137@gmail.com  
++34 625 632 421  
 
 ## Summary
 Bilingual electrical engineer and project manager with a unique physics background and seventeen years of industry experience, including extensive product development work in the satellite television and datacom sectors. Expertise in multi-gigabit circuit design for networking systems, PCB design for manufacturability, large dataset techniques, and development of software for design automation and product validation. Proven ability to collaborate with clients, partners, vendors, and contract manufacturers.
