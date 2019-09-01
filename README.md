@@ -24,7 +24,6 @@ Bilingual electrical engineer and project manager with a unique physics backgrou
 | **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1                 |
 | **OS / Platform**        | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
-|     |     |
 
 ## Professional Experience
  
@@ -34,11 +33,10 @@ Bilingual electrical engineer and project manager with a unique physics backgrou
 
 **Serving as Project Manager for customized, cloud-connected television headend**
 
-Custom design HW/SW/Cloud bla bla bla.
+updated transmitter IC to reduce EM emissions, exhibited improved manufacturability and durability. Collaborated with contract manufacturer and PCB fabricator to tune characteristic impedance to optimize signal integrity. Characterized the new assembly, which had improved signal quality, bit error rate, and lower overall cost.
 
 **Led hardware and mechanical development for new multimedia headend**
-
-bla, USB, disipation 
+Developed new modular headend architecture including a novel, cost-effective networking system for the control plane based on embeddeded USB--several current products are based on this platform and its derivatives. Designed, implemented, and tested new active cooling system for the platform. Led hardware design of all key PCBAs for the system, integrating new microprocessor, FPGA, DRAM system, and Ethernet IPcores. Collaborated with PCB fabricator to optimize performance and cost.
 
 **Led design for networking subsystem of TV platform**
 Including Ethernet switch module, bla,
