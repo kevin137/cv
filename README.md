@@ -1,6 +1,6 @@
 <img src="/Kevin_Cook_banner3.jpeg">
 
-## Kevin Cook
+## 
 Illunbe 9 - 4D  
 20011 Donostia-San Sebastián  
 kevin137@gmail.com  
