@@ -1,7 +1,7 @@
-![Kevin_Cook](/Kevin_Cook_banner3.jpeg)
+![Kevin_Cook](/__headshot.jpeg)
 ## 
 Illunbe 9 - 4D  
-20011 Donostia-San Sebastián  
+20011 Donostia-San Sebastián  SPAIN  
 kevin137@gmail.com  
 +34 625 632 421  
 
