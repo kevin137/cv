@@ -1,5 +1,4 @@
-<img src="/Kevin_Cook_banner3.jpeg">
-
+![Kevin_Cook](/Kevin_Cook_banner3.jpeg)
 ## 
 Illunbe 9 - 4D  
 20011 Donostia-San Sebastián  
