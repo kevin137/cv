@@ -1,6 +1,34 @@
-Primer boceto en castellano...
+![Kevin_Cook](/__headshot.jpeg)
+## 
+Illunbe 9 - 4D  
+20011 Donostia-San Sebastián  ESPAÑA  
+kevin137@gmail.com  
++34 625 632 421  
 
+## Summary
+Ingeniero del telecomunicaciones y gestor de proyectos con experiencia en multiples sectores, including product development work in the satellite television and datacom sectors. Expertise in multi-gigabit circuit design for networking systems, PCB design for manufacturability, large dataset techniques, and development of software for design automation and product validation. Proven ability to collaborate with clients, partners, vendors, and contract manufacturers.
 
+## Technical Expertise
+### Methodologies/Technologies
+-  Product development from initial concept, to requirements negotiation with clients, to functional prototype, through validation to mass production
+-  Project management including coordination of mechanical, hardware, software, web, and cloud developers
+-  Circuit design, schematic capture, and PCB routing with Zuken, Mentor Graphics, and FOSS tool suites
+- Large dataset manipulation, visualization, and inference using the Python/NumPy/Data8/Jupyter stack applied to circuit simulation, design automation, and product validation results
+- Automated test development using HTML5+JavaScript, Ruby+Cucumber, LabWindows/CVI, TCP/IP, and custom hardware
+- Product validation and characterization using extensive automation, RF techniques, EMC anechoic chambers, BERT, time domain reflectometry, power, thermal, and vibration testing
+- Development of HTML5+JavaScript web applications for internal R&D use 
+
+|     |     |
+| :-- | :-- |
+| **Computer Languages**   | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown |
+| **Applications**         | Zuken tools including CADSTAR and SI Verify, Mentor Graphics tools including DxDesigner and PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
+| **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1                 |
+| **OS / Platform**        | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
+| **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
+
+## Professional Experience
+ 
+### Ikusi  Donostia-San Sebastián, Spain
 
 *Project Manager, Multimedia Business Unit (2012-currently)*
 
