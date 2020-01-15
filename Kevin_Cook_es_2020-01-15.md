@@ -1,3 +1,44 @@
+![Kevin_Cook](/__headshot.jpeg)
+## 
+Illunbe 9 - 4D  
+20011 Donostia-San Sebastián  ESPAÑA  
+kevin137@gmail.com  
++34 625 632 421  
+
+## Summary
+Ingeniero del telecomunicaciones y gestor de proyectos con experiencia en multiples sectores, incluyendo desarollo de productos televisión por satélite y and datacom. Expertise in multi-gigabit circuit design for networking systems, PCB design for manufacturability, large dataset techniques, and development of software for design automation and product validation. Proven ability to collaborate with clients, partners, vendors, and contract manufacturers.
+
+## Technical Expertise
+### Methodologies/Technologies
+-  Product development from initial concept, to requirements negotiation with clients, to functional prototype, through validation to mass production
+-  Project management including coordination of mechanical, hardware, software, web, and cloud developers
+-  Circuit design, schematic capture, and PCB routing with Zuken, Mentor Graphics, and FOSS tool suites
+- Large dataset manipulation, visualization, and inference using the Python/NumPy/Data8/Jupyter stack applied to circuit simulation, design automation, and product validation results
+- Automated test development using HTML5+JavaScript, Ruby+Cucumber, LabWindows/CVI, TCP/IP, and custom hardware
+- Product validation and characterization using extensive automation, RF techniques, EMC anechoic chambers, BERT, time domain reflectometry, power, thermal, and vibration testing
+- Development of HTML5+JavaScript web applications for internal R&D use 
+
+|     |     |
+| :-- | :-- |
+| **Computer Languages**   | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown |
+| **Applications**         | Zuken tools including CADSTAR and SI Verify, Mentor Graphics tools including DxDesigner and PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
+| **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1                 |
+| **OS / Platform**        | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
+| **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
+
+## Professional Experience
+ 
+### Ikusi  Donostia-San Sebastián, Spain
+
+*Project Manager, Multimedia Business Unit (2012-currently)*
+
+**Serving as Project Manager for customized, cloud-connected television headend**  
+Currently managing multi-year hardware/software/cloud project, coordinating product, features, timelines, and validation. 
+
+**Led hardware and mechanical development for new multimedia headend**  
+Developed modular headend architecture including a novel, cost-effective networking system for control based on embedded USB--several current products are based on this platform and its derivatives. Implemented new active thermal system for the platform. Led hardware design of all key PCBAs for the system, integrating new microprocessor, FPGA, DRAM systems, and Ethernet IPcores. Collaborated with PCB fabricators to optimize performance and cost of hardware, with firmware developers to rationalize and modularize devicetree, and mechanical designers to improve EMC.
+
+**Led design for networking subsystem of TV platform**  
 Specified, designed, and implemented streaming-optimized networking system, from hardware to VLAN level, from line card PHYs to backplane to switch fabric ASIC. System based on gigabit Ethernet integrates switching ASIC in custom modular hardware, and forms the backbone of Ikusi's current premium TV headend. Switch module also includes microprocessor and FPGA for headend control. Managed development of custom firmware for switch ASIC by external contractor. Developed validation protocols, and production test stand including bespoke hardware and software written in Ruby.
 
 *R&D Technical Staff, Multimedia Business Unit (2007-2012)*
