@@ -4,7 +4,8 @@ kevin137@gmail.com
 +34 625 632 421  
 
 ## Summary
-Ingeniero del telecomunicaciones y gestor de proyectos con experiencia en multiples sectores, including product development work in the satellite television and datacom sectors. Expertise in multi-gigabit circuit design for networking systems, PCB design for manufacturability, large dataset techniques, and development of software for design automation and product validation. Proven ability to collaborate with clients, partners, vendors, and contract manufacturers.
+
+Bilingual electrical engineer and project manager with a unique physics background and extensive industry experience, including product development work in the satellite television and datacom sectors. Expertise in multi-gigabit circuit design for networking systems, PCB design for manufacturability, large dataset techniques, and development of software for design automation and product validation. Proven ability to collaborate with clients, partners, vendors, and contract manufacturers.
 
 ## Technical Expertise
 ### Methodologies/Technologies
