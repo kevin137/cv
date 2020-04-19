@@ -13,19 +13,19 @@ Ingeniero de telecomunicaciones y gestor de proyectos con experiencia en múltip
 -  Desarrollo del producto desde el concepto inicial, hasta la negociación de requisitos con los clientes, hasta el prototipo funcional, pasando por la validación hasta la producción masiva
 -  Gestión de proyectos, incluida la coordinación de desarrolladores mecánicos, de hardware, software, web y especialistas en la nube
 -  Diseño de circuitos, captura de esquemáticos y rutado de circuitos impresos con Zuken, Mentor Graphics y herramientas FOSS
-- Large dataset manipulation, visualization, and inference using the Python/NumPy/Data8/Jupyter stack applied to circuit simulation, design automation, and product validation results
-- Automated test development using HTML5+JavaScript, Ruby+Cucumber, LabWindows/CVI, TCP/IP, and custom hardware
-- Product validation and characterization using extensive automation, RF techniques, EMC anechoic chambers, BERT, time domain reflectometry, power, thermal, and vibration testing
-- Development of HTML5+JavaScript web applications for internal R&D use 
+- Manipulatión de grandes conjuntos de datos, visualizaión e inferencia usando  Python/NumPy/Data8/Jupyter aplicada a la simulación de circuitos, automatización del proceso de diseño y analsis de los resultados de la validación de productos
+- Desarrollo de ensayos automatizados usando HTML5+JavaScript, Ruby+Cucumber, LabWindows / CVI, TCP / IP y hardware personalizado
+- Caracterización y validación de productos utilizando automatización, técnicas de RF, cámaras anecoicas de EMC, BERT, TDR, pruebas de alimentación, térmicas y de vibración
+- Desarrollo de aplicaciones web HTML5+JavaScript para uso interno de I+D 
 
 |     |     |
 | :-- | :-- |
-|**Computer Languages**   | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown |
-| **Applications**         | Zuken tools including CADSTAR and SI Verify, Mentor Graphics tools including DxDesigner and PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
-| **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1                 |
-| **OS / Platform**        | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
-| **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
-| **Continuing Education** | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
+|**Languages de Programación**   | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown |
+| **Aplicaciones**               | Herramientas Zuken incluyendo CADSTAR and SI Verify, herramientas de Mentor Graphics incluyendo DxDesigner and PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
+| **Televisión / Datacom**       | Certificados en HEVC, HLS/MPEG-DASH, G.984 GPON; certificados Telcordia en TCP/IP, DWDM, SONET/SDH, T1/E1                 |
+| **OS / Platforma**             | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
+| **Languages Naturales**        | Inglés (nativo), español (proficiente), alemán (básico)           |
+| **Educación Continua**         | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
 
 ## Professional Experience
  
