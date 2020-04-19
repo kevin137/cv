@@ -6,13 +6,13 @@ kevin137@gmail.com
 +34 625 632 421  
 
 ## Summary
-Ingeniero del telecomunicaciones y gestor de proyectos con experiencia en multiples sectores, incluyendo desarollo de productos televisión por satélite y and datacom. Expertise in multi-gigabit circuit design for networking systems, PCB design for manufacturability, large dataset techniques, and development of software for design automation and product validation. Proven ability to collaborate with clients, partners, vendors, and contract manufacturers.
+Ingeniero de telecomunicaciones y gestor de proyectos con experiencia en múltiples sectores, incluyendo el desarollo de productos televisión por satélite y and datacom. Experiencia en diseño de circuitos digitales de alta velocidad para sistemas de redes, diseño de circuitos impresos para fabricabilidad, técnicas de grandes conjuntos de datos y desarrollo de software para automatización de diseño y validación de productos. Capacidad comprobada para colaborar con clientes, socios, proveedores y fabricantes.
 
-## Technical Expertise
-### Methodologies/Technologies
--  Product development from initial concept, to requirements negotiation with clients, to functional prototype, through validation to mass production
--  Project management including coordination of mechanical, hardware, software, web, and cloud developers
--  Circuit design, schematic capture, and PCB routing with Zuken, Mentor Graphics, and FOSS tool suites
+## Conocimientos Técnicos
+### Metodologías / Tecnologías
+-  Desarrollo del producto desde el concepto inicial, hasta la negociación de requisitos con los clientes, hasta el prototipo funcional, pasando por la validación hasta la producción masiva
+-  Gestión de proyectos, incluida la coordinación de desarrolladores mecánicos, de hardware, software, web y especialistas en la nube
+-  Diseño de circuitos, captura de esquemáticos y rutado de circuitos impresos con Zuken, Mentor Graphics y herramientas FOSS
 - Large dataset manipulation, visualization, and inference using the Python/NumPy/Data8/Jupyter stack applied to circuit simulation, design automation, and product validation results
 - Automated test development using HTML5+JavaScript, Ruby+Cucumber, LabWindows/CVI, TCP/IP, and custom hardware
 - Product validation and characterization using extensive automation, RF techniques, EMC anechoic chambers, BERT, time domain reflectometry, power, thermal, and vibration testing
@@ -20,11 +20,12 @@ Ingeniero del telecomunicaciones y gestor de proyectos con experiencia en multip
 
 |     |     |
 | :-- | :-- |
-| **Computer Languages**   | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown |
+|**Computer Languages**   | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown |
 | **Applications**         | Zuken tools including CADSTAR and SI Verify, Mentor Graphics tools including DxDesigner and PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
 | **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1                 |
 | **OS / Platform**        | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
+| **Continuing Education** | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
 
 ## Professional Experience
  
