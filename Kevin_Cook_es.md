@@ -1,12 +1,10 @@
 ![Kevin_Cook](/__headshot.jpeg)
 ## 
-Illunbe 9 - 4D  
-20011 Donostia-San Sebastián  ESPAÑA  
 kevin137@gmail.com  
 +34 625 632 421  
 
-## Summary
-Ingeniero de telecomunicaciones y gestor de proyectos con experiencia en múltiples sectores, incluyendo el desarollo de productos televisión por satélite y and datacom. Experiencia en diseño de circuitos digitales de alta velocidad para sistemas de redes, diseño de circuitos impresos para fabricabilidad, técnicas de grandes conjuntos de datos y desarrollo de software para automatización de diseño y validación de productos. Capacidad comprobada para colaborar con clientes, socios, proveedores y fabricantes.
+## Resumen
+Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia en múltiples sectores, incluyendo el desarollo de productos televisión por satélite y and datacom. Experiencia en el diseño de circuitos digitales de alta velocidad para sistemas de redes, diseño de circuitos impresos para fabricabilidad, técnicas para analizar grandes conjuntos de datos y el desarrollo de software para la automatización del diseño y la validación de productos. Capacidad comprobada para la colaboracion con clientes, socios, proveedores y fabricantes.
 
 ## Conocimientos Técnicos
 ### Metodologías / Tecnologías
@@ -21,34 +19,34 @@ Ingeniero de telecomunicaciones y gestor de proyectos con experiencia en múltip
 |     |     |
 | :-- | :-- |
 |**Languages de Programación**   | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown |
-| **Aplicaciones**               | Herramientas Zuken incluyendo CADSTAR and SI Verify, herramientas de Mentor Graphics incluyendo DxDesigner and PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
+| **Aplicaciones**               | Herramientas Zuken incluyendo CADSTAR y SI Verify, herramientas de Mentor Graphics incluyendo DxDesigner y PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
 | **Televisión / Datacom**       | Certificados en HEVC, HLS/MPEG-DASH, G.984 GPON; certificados Telcordia en TCP/IP, DWDM, SONET/SDH, T1/E1                 |
 | **OS / Platforma**             | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Languages Naturales**        | Inglés (nativo), español (proficiente), alemán (básico)           |
 | **Educación Continua**         | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
 
-## Professional Experience
+## Experiencia Profesional
  
-### Ikusi  Donostia-San Sebastián, Spain
+### Ikusi  Donostia-San Sebastián, España
 
-*Project Manager, Multimedia Business Unit (2012-currently)*
+*Jefe de Proyectos, I+D, Unidad de Negocio "Multimedia" (2012-actualmente)*
 
-**Serving as Project Manager for customized, cloud-connected television headend**  
-Currently managing multi-year hardware/software/cloud project, coordinating product, features, timelines, and validation. 
+**Jefe técnico del proyecto para una nueva cabecera de televisión, personalizada y conectada a la nube**  
+Estoy gestionando el proyecto actualmente, que incluye hardware, software y nube, coordinando productos, prestaciones, plazos y validación. 
 
-**Led hardware and mechanical development for new multimedia headend**  
-Developed modular headend architecture including a novel, cost-effective networking system for control based on embedded USB--several current products are based on this platform and its derivatives. Implemented new active thermal system for the platform. Led hardware design of all key PCBAs for the system, integrating new microprocessor, FPGA, DRAM systems, and Ethernet IPcores. Collaborated with PCB fabricators to optimize performance and cost of hardware, with firmware developers to rationalize and modularize devicetree, and mechanical designers to improve EMC.
+**Encabezado el desarrollo del hardware para un sistema nueva de telelvisón** 
+Desarrollé una arquitectura modular de cabecera incluyendo un sistema de red novedoso y económico, basado en USB embebido: varios productos actuales se basan en la plataforma y sus derivados. Implementé un nuevo sistema térmico para la arquitectura. Dirigí el desarrollo de todos los circuitos impresos clave del sistema, integrando un nuevo microprocesador, FPGA, DRAM, y IPcores. Colaboré con fabricantes de circuitos impresos para optimizar el rendimiento y el costo del hardware, con desarrolladores del firmware para racionalizar y modularizar el devicetree, y diseñadores mecánicos para mejorar la EMC.
 
-**Led design for networking subsystem of TV platform**  
-Specified, designed, and implemented streaming-optimized networking system, from hardware to VLAN level, from line card PHYs to backplane to switch fabric ASIC. System based on gigabit Ethernet integrates switching ASIC in custom modular hardware, and forms the backbone of Ikusi's current premium TV headend. Switch module also includes microprocessor and FPGA for headend control. Managed development of custom firmware for switch ASIC by external contractor. Developed validation protocols, and production test stand including bespoke hardware and software written in Ruby.
+**Responsable del diseño del subsistema de red de una nueva plataforma de TV.**
+Especifiqué, diseñé y implementé el sistema red, optimizado para streaming serviciós de televisón, desde el hardware hasta la VLAN, desde los integrados PHY en tarjetas de los nodos, por el backplane, hasta el ASIC central. El sistema, basado en Gigabit Ethernet, integra el ASIC de conmutación en hardware modular hecho a medida y forma el núcleo de comunicaciones para la cabecera premium de Ikusi. El módulo central también incluye un microprocesador y una FPGA para la gestion de la cabecera. Gestioné el desarrollo del firmware para switch ASIC, hecho por un contratista externo. Desarrollé los protocolos de validación y pruebas de producción, incluyendo hardware y software a medida escrito en Ruby.
 
-*R&D Technical Staff, Multimedia Business Unit (2007-2012)*
+*Técnico I+D, Unidad de Negocio "Multimedia" (2007-2012)*
 
-**Designed hardware for high-density H.264 transcoding module**  
-System based on ASIC with fast multi-channel DDR3 and a PCI-e interface. Characterized and selected ICs for embedded Ethernet subsystem. Simulated signal integrity of PCI-e lanes using Keysight ADS. Miniaturized PCB layout by a factor of two compared to the ASIC reference design. Benchmarked transcoding performance, optimized thermal management system, developed and executed validation protocols, and cost-reduced the design for mass production. Transcoding systems installed in thousands of B2B locations for a major television operator in France.
+**Diseñé el hardware para un módulo de alta densidad para la transcodificación H.264**  
+El sistema fue basado en un ASIC especializado con DDR3 multicanal rápido y una interfaz PCI-e. Evalué y elegí los circuitos integrados para el subsistema de Ethernet. Simulé la integridad de señal de la interfaz PCI-e utilizando Keysight ADS. Reducí el tamaño del circuito impreso por un factor de dos comparado con el diseño de referencia. Evalué el rendimiento de la transcodificación,optimicé el sistema de gestión térmica, escribí y ejecuté el protocolo de validación, y redujé los costos del diseño para la producción masiva. Estos sistemas de transcodificación fueron instalados en miles de ubicaciones B2B de un operador de televisión principal en Francia. 
 
-**Developed hardware for network-enabled satellite television transmodulator**  
-Module was first in its class to incorporate Ethernet networking. Simulated signal integrity of system bus using Zuken SI Verify. Improved DFM and cost of design by increasing integration, migrating PCB fabrication to high-volume overseas facilities, and optimizing mechanical design for assembly by robot. Developed and executed validation protocols, assisted production team with jigs and procedures for automation, and adapted hardware platform to new form factors for new products.
+**Desarrollé hardware para un transmodulador de televisión**  
+El módulo fue el primero en su clase en incorporar redes Ethernet. Simulé la integridad de la señal del bus del sistema usando Zuken SI Verify. Mejoré el DFM y el costo del diseño al aumentar la integración, al migrar la fabricación de las placas de circuitos a proveedores extranjeros de gran volumen y al optimizar el diseño mecánico para el ensamblaje por robot. Desarrollé y ejecuté protocolos de validación, ayudé al equipo de producción con herramientas y procedimientos para la automatización, y adapté la plataforma de hardware a otros formatos para nuevos productos.
 
 ### Molex Inc.  Maumelle, Arkansas
 *Electrical Engineer, High Performance Adapters Business Unit (2005-2007)*
