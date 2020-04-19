@@ -106,3 +106,10 @@ Quantum mechanics, thermodynamics, statistical mechanics, electromagnetism, volu
 - Network programming in C and Java
 
 **Senior Design Project: JALTISA (Java Linear Time-Invariant System Analyzer)**
+
+
+![](/__spacer.png)
+
+
+
+![](/__spacer.png)
