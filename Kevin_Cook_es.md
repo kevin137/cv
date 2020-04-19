@@ -48,11 +48,11 @@ El sistema fue basado en un ASIC especializado con DDR3 multicanal rápido y una
 **Desarrollé hardware para un transmodulador de televisión**  
 El módulo fue el primero en su clase en incorporar redes Ethernet. Simulé la integridad de la señal del bus del sistema usando Zuken SI Verify. Mejoré el DFM y el costo del diseño al aumentar la integración, al migrar la fabricación de las placas de circuitos a proveedores extranjeros de gran volumen y al optimizar el diseño mecánico para el ensamblaje por robot. Desarrollé y ejecuté protocolos de validación, ayudé al equipo de producción con herramientas y procedimientos para la automatización, y adapté la plataforma de hardware a otros formatos para nuevos productos.
 
-### Molex Inc.  Maumelle, Arkansas
-*Electrical Engineer, High Performance Adapters Business Unit (2005-2007)*
+### Molex Inc.  Maumelle, Arkansas, EE.UU.
+*Ingeniero Electrico, Unidad de Negocio "High Performance Adapters" (2005-2007)*
 
-**Redesigned 4.25 gigabit/second Fibre Channel active copper cable assembly**
-New design had updated transmitter IC to reduce EM emissions, exhibited improved manufacturability and durability. Collaborated with contract manufacturer and PCB fabricator to tune characteristic impedance to optimize signal integrity. Characterized the new assembly, which had improved signal quality, bit error rate, and lower overall cost.
+**Rediseñé cable activo para Fibre Channel de 4.25 gigabit/segundo**
+El nuevo diseño destacaba de un nuevo circuito integrado de transmisión para reducir las emisiones EM, mejoró el proceso de fabricación y la robustez del producto. Colaboré con el ensamblador y el fabricante de los circuitos impresos, ajustando la impedancia característica para optimizar la integridad de la señal. Caractericé el nuevo cable, asegurando que había mejorado la calidad de la señal, la tasa de errores y el costo.
 
 **Developed 4.25 Gbps production test system including custom PCBs and FPGA-based pattern generator**
 Tester required four new printed circuit boards assemblies, three with tightly controlled impedance. Incorporated a customized Xilinx evaluation board programmed to generate test pattern. Coordinated development with mechanical engineer developing the enclosure, performed final assembly and testing, and shipped the tester to Mexico, where was in heavy use in a production line.
