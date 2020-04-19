@@ -24,7 +24,7 @@ Bilingual electrical engineer and project manager with a unique physics backgrou
 | **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1                 |
 | **OS / Platform**        | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
-| **Continuing Education** | Foundations of Data Science Professional Certificate (BerkeleyX, 2018) https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ |
+| **Continuing Education** | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
 
 ## Professional Experience
  
