@@ -62,35 +62,3 @@ Realicé pruebas para productos Fibre Channel, Infiniband y Ethernet que requer�
 
 #### Tellabs Operations, Inc.  Naperville, Illinois, EE.UU.
 *Miembro del Personal Técnico (MTS), Desarrollo de Hardware (2000-2003)*
-
-**Developed automated test system in LabWindows/CVI**
-Custom software controlled instruments, relay switch matrix, and device under test to measure signal quality characteristics and confirm compliance with Telcordia T1/E1 standard. Test system could fully verify 28 T1 ports with no human intervention, saving hundreds of hours per verification cycle.
-
-**Designed gigabit passive backplane for optical telecommunications system**
-Hardware deliverable was production quality from the first prototype, saving tens of thousands of dollars and months of delay by eliminating the need for a second prototype. Design is now in production as a key component in product with hundreds of millions of dollars of revenue per year.
-
-**Characterized connector and printed circuit board performance using time domain reflectometry**
-Measured differential and single-ended signal paths, correlated test data to RF simulations, and performed 2.4 gigabit/second bit error rate testing, thoroughly documenting results.
-
-#### Iowa State University  Ames, Iowa
-*Undergraduate Research Assistant, Physics Department  (1998-1999)*
-
-**Debugged hardware and software for custom VME-based instrument**
-Performed low-level testing, including diagnostic routines in C for the VxWorks platform, fault isolation and device programming for the electronics which became the Level I Trigger for the PHENIX experiment at the Relativistic Heavy Ion Collider at Brookhaven National Laboratory.
-
-### Education
-
-#### University of Illinois at Chicago  *Chicago, Illinois*
-*Completed 32 credit hours of specialized physics coursework (2003-2004)*
-
-Quantum mechanics, thermodynamics, statistical mechanics, electromagnetism, volunteered as an assistant in a thin-film magnetics laboratory, designing and assembling a cryogenic deposition platform.
- 
-#### Iowa State University *Ames, Iowa*
-*B.S. in Electrical Engineering (Completed December 1999)*
-
-**Advanced coursework in the communications curriculum**
-- Digital communication systems including synchronization, coding, and encryption
-- Feedback control theory and digital systems design
-- Network programming in C and Java
-
-**Senior Design Project: JALTISA (Java Linear Time-Invariant System Analyzer)**
