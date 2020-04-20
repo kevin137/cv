@@ -4,7 +4,7 @@ kevin137@gmail.com
 +34 625 632 421  
 
 ## Resumen
-Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia en múltiples sectores, incluyendo el desarollo de productos televisión por satélite y datacom(?). Experiencia en el diseño de circuitos digitales de alta velocidad para sistemas de redes, diseño de circuitos impresos fabricables(?), técnicas para analizar grandes conjuntos de datos y el desarrollo de software para la automatización del diseño y la validación de productos. Capacidad comprobada para la colaboracion con clientes, socios, proveedores y fabricantes.
+Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia en múltiples sectores, incluyendo el desarollo de productos televisión por satélite y redes de datos. Experiencia en el diseño de circuitos digitales de alta velocidad para sistemas de redes, diseño de circuitos impresos para producción masiva, técnicas para analizar grandes conjuntos de datos y el desarrollo de software para la automatización del diseño y la validación de productos. Capacidad comprobada para la colaboracion con clientes, socios, proveedores y fabricantes.
 
 ## Conocimientos Técnicos
 ### Metodologías / Tecnologías
@@ -37,7 +37,7 @@ Estoy gestionando el proyecto actualmente, que incluye hardware, software y nube
 **Encabezado el desarrollo del hardware para un sistema nueva de telelvisón** 
 Desarrollé una arquitectura modular de cabecera incluyendo un sistema de red novedoso y económico, basado en USB embebido: varios productos actuales se basan en la plataforma y sus derivados. Implementé un nuevo sistema térmico para la arquitectura. Dirigí el desarrollo de todos los circuitos impresos clave del sistema, integrando un nuevo microprocesador, FPGA, DRAM, e IPcores. Colaboré con fabricantes de circuitos impresos para optimizar el rendimiento y el coste del hardware, con desarrolladores del firmware para racionalizar y modularizar el devicetree, y diseñadores mecánicos para mejorar la EMC.
 
-**Responsable del diseño del subsistema de red de una nueva plataforma de TV.**
+**Responsable del diseño del subsistema de red de una nueva plataforma de TV**
 Especifiqué, diseñé e implementé el sistema red optimizado para streaming serviciós de televisón. Desde el hardware hasta la VLAN, los integrados PHY en tarjetas de los nodos, el backplane, hasta el ASIC central. El sistema, basado en Gigabit Ethernet, integra el ASIC de conmutación en hardware modular hecho a medida y forma el núcleo de comunicaciones para la cabecera premium de Ikusi. El módulo central también incluye un microprocesador y una FPGA para la gestion de la cabecera. Gestioné el desarrollo del firmware para switch ASIC, hecho por un contratista externo. Desarrollé los protocolos de validación y pruebas de producción, incluyendo hardware y software a medida escrito en Ruby.
 
 *Técnico I+D, Unidad de Negocio "Multimedia" (2007-2012)*
@@ -52,16 +52,16 @@ El módulo fue el primero en su clase en incorporar redes Ethernet. Simulé la i
 *Ingeniero Electrico, Unidad de Negocio "High Performance Adapters" (2005-2007)*
 
 **Rediseñé cable activo para Fibre Channel de 4.25 gigabit/segundo**
-El nuevo diseño constaba(?) de un nuevo circuito integrado de transmisión para reducir las emisiones EM. Además se mejoró el proceso de fabricación y la robustez del producto. Colaboré con el ensamblador y el fabricante de los circuitos impresos, ajustando la impedancia característica para optimizar la integridad de la señal. Caractericé el nuevo cable, asegurando que había mejorado la calidad de la señal, la tasa de errores y el coste.
+El diseño incluyó un nuevo circuito integrado de transmisión para reducir las emisiones EM. Además se mejoró el proceso de fabricación y la robustez del producto. Colaboré con el ensamblador y el fabricante de los circuitos impresos, ajustando la impedancia característica para optimizar la integridad de la señal. Caractericé el nuevo cable, asegurando que había mejorado la calidad de la señal, la tasa de errores y el coste.
 
-**Developed 4.25 Gbps production test system including custom PCBs and FPGA-based pattern generator**
-Tester required four new printed circuit boards assemblies, three with tightly controlled impedance. Incorporated a customized Xilinx evaluation board programmed to generate test pattern. Coordinated development with mechanical engineer developing the enclosure, performed final assembly and testing, and shipped the tester to Mexico, where was in heavy use in a production line.
+**Desarrollé un sistema para pruebas en producción con nuevos circuitos impresos y una FPGA para generar patrones**
+El nuevo sistema necesitaba cuatro nuevos circuito impresos, tres de ellos con impedancia cuidadosamente controlada. También incorporó una placa de evaluación Xilinx personalizada y programada para generar patrones de prueba a 4.25 Gbps. Coordiné el desarrollo con el ingeniero mecánico que desarrollaba el chasis, realicé el ensamblaje final y las pruebas, y envié el probador a México, donde estaba en uso continuo en una línea de producción.
 
-**Characterized adapters and cable assemblies**
-Compliance testing for Fibre Channel, Infiniband, and Ethernet products required time domain reflectometry, eye diagrams, and bit error rate testing. Built custom assemblies and tuned equalizers for special sample requests. Documented results in detailed test reports for distribution to customers.
+**Caractericé adaptadores y conjuntos de cables**
+Realicé pruebas para productos Fibre Channel, Infiniband y Ethernet que requerían reflectometría de dominio de tiempo, diagramas de ojo y pruebas de tasa de error de bits. Construí accesorios personalizados y ajusté ecualizadores para solicitudes de muestras especiales. Documenté los resultados en informes de prueba detallados para su distribución a los clientes.
 
-#### Tellabs Operations, Inc.  Naperville, Illinois
-*Member of Technical Staff, Hardware Development  (2000-2003)*
+#### Tellabs Operations, Inc.  Naperville, Illinois, EE.UU.
+*Miembro del Personal Técnico (MTS), Desarrollo de Hardware (2000-2003)*
 
 **Developed automated test system in LabWindows/CVI**
 Custom software controlled instruments, relay switch matrix, and device under test to measure signal quality characteristics and confirm compliance with Telcordia T1/E1 standard. Test system could fully verify 28 T1 ports with no human intervention, saving hundreds of hours per verification cycle.
