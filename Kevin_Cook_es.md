@@ -4,14 +4,14 @@ kevin137@gmail.com
 +34 625 632 421  
 
 ## Resumen  
-Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia en múltiples sectores, incluyendo el desarollo de productos televisión por satélite y redes de datos. Experiencia en el diseño de circuitos digitales de alta velocidad para sistemas de redes, diseño de circuitos impresos para producción masiva, técnicas para analizar grandes conjuntos de datos y el desarrollo de software para la automatización del diseño y la validación de productos. Capacidad comprobada para la colaboracion con clientes, socios, proveedores y fabricantes.
+Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia en múltiples sectores, incluyendo el desarollo de productos de televisión por satélite y redes de datos. Experiencia en el diseño de circuitos digitales de alta velocidad, diseño de circuitos impresos para producción masiva, técnicas para analizar grandes conjuntos de datos y el desarrollo de software para la automatización del diseño y la validación de productos. Capacidad comprobada para la colaboracion con clientes, socios, proveedores y fabricantes.
 
 ## Conocimientos Técnicos  
 ### Metodologías / Tecnologías
 - Desarrollo de producto desde el concepto inicial, pasando por la negociación de requisitos con los clientes, el prototipo funcional y la validación, llegando hasta la producción masiva
 - Gestión de proyectos, incluida la coordinación de desarrolladores mecánicos, hardware, software, web y especialistas en la nube
 - Diseño de circuitos, captura de esquemáticos y rutado de circuitos impresos con Zuken, Mentor Graphics y herramientas FOSS
-- Manipulación de grandes conjuntos de datos, visualizaión e inferencia usando  Python/NumPy/Data8/Jupyter aplicada a la simulación de circuitos, automatización del proceso de diseño y análisis de los resultados de la validación de productos
+- Manipulación de grandes conjuntos de datos, visualización e inferencia usando  Python/NumPy/Data8/Jupyter aplicada a la simulación de circuitos, automatización del proceso de diseño y análisis de los resultados de la validación de productos
 - Desarrollo de ensayos automatizados usando HTML5+JavaScript, Ruby+Cucumber, LabWindows / CVI, TCP / IP y hardware personalizado
 - Caracterización y validación de productos utilizando automatización, técnicas de RF, cámaras anecoicas de EMC, BERT, TDR, pruebas de alimentación, térmicas y de vibración
 - Desarrollo de aplicaciones web HTML5+JavaScript para uso interno de I+D 
@@ -67,16 +67,16 @@ Realicé pruebas para productos Fibre Channel, Infiniband y Ethernet que requer�
 El conjunto utilizaba instrumentos personalizados y controlados por software y una matriz de conmutación de relés RF para medir las características de calidad de la señal y confirmar el cumplimiento del estándar Telcordia T1/E1. El sistema de pruebas pudo verificar completamente 28 puertos T1 sin intervención humana, ahorrando cientos de horas por ciclo de verificación.
 
 **Diseñé un backplane gigabit pasivo para un sistema óptico de telecomunicaciones**  
-El hardware estaba listo para producción masiva desde el primer prototipo, ahorrando decenas de miles de dólares y meses de retraso al eliminar la necesidad de un segundo prototipo. El diseño era un componente clave en el producto con cientos de millones de dólares de ingresos por año.
+El hardware estaba listo para producción masiva desde el primer prototipo, ahorrando decenas de miles de dólares y meses de desarollo al eliminar la necesidad de un segundo prototipo. El diseño era un componente clave en el producto con cientos de millones de dólares de ingresos por año.
 
-**Caractericé el rendimiento de conectores y circuitos impresos utilizando reflectometría en el dominio del tiempo**  
-Medí impediancias en modo diferencial y simple con TDR, correlacioné datos de prueba con simulaciones de RF y realicé pruebas de tasa de errores (BER) de 2,4 gigabits/segundo, documentando los resultados.
+**Caractericé el rendimiento de conectores y circuitos impresos utilizando reflectometría en el dominio del tiempo (TDR)**  
+Medí impedancias en modo diferencial y simple con TDR, correlacioné datos de prueba con simulaciones de RF y realicé pruebas de tasa de errores (BER) de 2,4 gigabits/segundo, documentando los resultados.
 
 #### Iowa State University  Ames, Iowa, EE.UU.  
 *Auxiliar, Departamento de Física (1998-1999)*
 
-**Depuré hardware y software para un instrumento personalizado basado en VME**  
-Realicé pruebas, desarrollé rutinas de diagnóstico en C para la plataforma VxWorks, hice aislamiento de fallos y programación de dispositivos para el sistema electrónica que se convirtió en el "Level I Trigger" para el experimento internaciónal PHENIX ubicado el colisionador RHIC en el Laboratorio Nacional de Brookhaven.
+**Depuré hardware y software para un instrumento de investigación basado en VME**  
+Realicé pruebas, desarrollé rutinas de diagnóstico en C para la plataforma VxWorks, hice aislamiento de fallos y programación de dispositivos para el sistema electrónico que se convirtió en el "Level I Trigger" para el experimento internacional PHENIX ubicado en el colisionador RHIC del Laboratorio Nacional de Brookhaven.
 
 
 ## Formación
@@ -84,7 +84,7 @@ Realicé pruebas, desarrollé rutinas de diagnóstico en C para la plataforma Vx
 #### University of Illinois at Chicago  *Chicago, Illinois, EE.UU.*  
 *Completé 32 horas crédito de cursos de física especializados (2003-2004)*
 
-Mecánica cuántica, termodinámica, mecánica estadística, electromagnetismo. Me ofrecí como asistente en un laboratorio de magnetismo "thin-film", diseñando y ensamblando una plataforma de deposición criogénica.
+Creditos en mecánica cuántica, termodinámica, mecánica estadística, y electromagnetismo. Ejercí como asistente en un laboratorio de magnetismo "thin-film", diseñando y ensamblando una plataforma de deposición criogénica.
  
 #### Iowa State University  *Ames, Iowa, EE.UU.*  
 *B.S. in Electrical Engineering (Completado Diciembre 1999)*
@@ -92,7 +92,7 @@ Mecánica cuántica, termodinámica, mecánica estadística, electromagnetismo. 
 **Cursos avanzados en el currículo de telecomunicaciones**
 
 - Sistemas de comunicación digital incluyendo sincronización, codificación y encriptación
-- Teoría de control de retroalimentación y diseño de sistemas digitales
+- Teoría de control automático y diseño de sistemas digitales
 - Programación para redes de datos en C y Java
 
 **Proyecto final: JALTISA ( [Java] Analizador de sistemas lineales e invariantes en tiempo)**
