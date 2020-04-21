@@ -86,7 +86,7 @@ Performed low-level testing, including diagnostic routines in C for the VxWorks 
 
 Quantum mechanics, thermodynamics, statistical mechanics, electromagnetism, volunteered as an assistant in a thin-film magnetics laboratory, designing and assembling a cryogenic deposition platform.
  
-#### Iowa State University *Ames, Iowa*  
+#### Iowa State University  *Ames, Iowa*  
 *B.S. in Electrical Engineering (Completed December 1999)*
 
 **Advanced coursework in the communications curriculum**  
