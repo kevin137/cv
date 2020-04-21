@@ -68,7 +68,7 @@ Compliance testing for Fibre Channel, Infiniband, and Ethernet products required
 Custom software-controlled instruments, relay switch matrix, and device under test to measure signal quality characteristics and confirm compliance with Telcordia T1/E1 standard. Test system could fully verify 28 T1 ports with no human intervention, saving hundreds of hours per verification cycle.
 
 **Designed gigabit passive backplane for optical telecommunications system**  
-Hardware deliverable was production quality from the first prototype, saving tens of thousands of dollars and months of delay by eliminating the need for a second prototype. Design is now in production as a key component in product with hundreds of millions of dollars of revenue per year.
+Hardware deliverable was production quality from the first prototype, saving tens of thousands of dollars and months of delay by eliminating the need for a second prototype. Design was a key component in product with hundreds of millions of dollars of revenue per year.
 
 **Characterized connector and printed circuit board performance using time domain reflectometry**  
 Measured differential and single-ended signal paths, correlated test data to RF simulations, and performed 2.4 gigabit/second bit error rate testing, thoroughly documenting results.
