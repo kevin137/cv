@@ -27,7 +27,7 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 
 ## Experiencia Profesional
  
-### Ikusi  Donostia-San Sebastián, España
+### Ikusi  *- Donostia-San Sebastián, España*
 
 *Jefe de Proyectos, I+D, Unidad de Negocio "Multimedia" (2012-actualmente)*
 
@@ -48,7 +48,7 @@ El sistema fue basado en un ASIC especializado con DDR3 multicanal rápido y una
 **Desarrollé hardware para un transmodulador de televisión**  
 El módulo fue el primero en su clase en incorporar redes Ethernet. Simulé la integridad de la señal del bus del sistema usando Zuken SI Verify. Mejoré el DFM y el coste del diseño al aumentar la integración, al migrar la fabricación de las placas de circuitos a proveedores extranjeros de gran volumen y al optimizar el diseño mecánico para el ensamblaje robotizado. Desarrollé y ejecuté protocolos de validación, ayudé al equipo de producción con herramientas y procedimientos para la automatización, y adapté la plataforma de hardware a otros formatos para nuevos productos.
 
-### Molex Inc.  Maumelle, Arkansas, EE.UU.  
+### Molex Inc.  *- Maumelle, Arkansas, EE.UU.*  
 *Ingeniero Electrico, Unidad de Negocio "High Performance Adapters" (2005-2007)*
 
 **Rediseñé cable activo para Fibre Channel de 4.25 gigabit/segundo**  
@@ -60,7 +60,7 @@ El nuevo sistema necesitaba cuatro nuevos circuito impresos, tres de ellos con i
 **Caractericé adaptadores y conjuntos de cables**  
 Realicé pruebas para productos Fibre Channel, Infiniband y Ethernet que requerían reflectometría de dominio de tiempo, diagramas de ojo y pruebas de tasa de error de bits. Construí accesorios personalizados y ajusté ecualizadores para solicitudes de muestras especiales. Documenté los resultados en informes de prueba detallados para su distribución a los clientes.
 
-#### Tellabs Operations, Inc.  Naperville, Illinois, EE.UU.  
+### Tellabs Operations, Inc.  *- Naperville, Illinois, EE.UU.*  
 *Miembro del Personal Técnico (MTS), Desarrollo de Hardware (2000-2003)*
 
 **Desarrollé un sistema de prueba automatizado en LabWindows/CVI**  
@@ -72,7 +72,7 @@ El hardware estaba listo para producción masiva desde el primer prototipo, ahor
 **Caractericé el rendimiento de conectores y circuitos impresos utilizando reflectometría en el dominio del tiempo (TDR)**  
 Medí impedancias en modo diferencial y simple con TDR, correlacioné datos de prueba con simulaciones de RF y realicé pruebas de tasa de errores (BER) de 2,4 gigabits/segundo, documentando los resultados.
 
-#### Iowa State University  Ames, Iowa, EE.UU.  
+### Iowa State University  *- Ames, Iowa, EE.UU.*  
 *Auxiliar, Departamento de Física (1998-1999)*
 
 **Depuré hardware y software para un instrumento de investigación basado en VME**  
@@ -81,12 +81,12 @@ Realicé pruebas, desarrollé rutinas de diagnóstico en C para la plataforma Vx
 
 ## Formación
 
-#### University of Illinois at Chicago  *Illinois, EE.UU.*  
+### University of Illinois at Chicago  *- Illinois, EE.UU.*  
 *Completé 32 horas crédito de cursos de física especializados (2003-2004)*
 
 Creditos en mecánica cuántica, termodinámica, mecánica estadística, y electromagnetismo. Ejercí como asistente en un laboratorio de magnetismo "thin-film", diseñando y ensamblando una plataforma de deposición criogénica.
  
-#### Iowa State University  *Ames, Iowa, EE.UU.*  
+### Iowa State University  *- Ames, Iowa, EE.UU.*  
 *B.S. in Electrical Engineering (Completado Diciembre 1999)*
 
 **Cursos avanzados en el currículo de telecomunicaciones**
@@ -95,4 +95,4 @@ Creditos en mecánica cuántica, termodinámica, mecánica estadística, y elect
 - Teoría de control automático y diseño de sistemas digitales
 - Programación para redes de datos en C y Java
 
-**Proyecto final: JALTISA ( [Java] Analizador de sistemas lineales e invariantes en tiempo)**
+**Proyecto final: JALTISA ( [JAva] Analizador de Sistemas Lineales e Invariantes en Tiempo)**
