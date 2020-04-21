@@ -3,8 +3,10 @@
 kevin137@gmail.com  
 +34 625 632 421  
 
+
 ## Resumen  
 Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia en múltiples sectores, incluyendo el desarollo de productos de televisión por satélite y redes de datos. Experiencia en el diseño de circuitos digitales de alta velocidad, diseño de circuitos impresos para producción masiva, técnicas para analizar grandes conjuntos de datos y el desarrollo de software para la automatización del diseño y la validación de productos. Capacidad comprobada para la colaboracion con clientes, socios, proveedores y fabricantes.
+
 
 ## Conocimientos Técnicos  
 ### Metodologías / Tecnologías
@@ -24,6 +26,7 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 | **OS / Platforma**             | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Languages Naturales**        | Inglés (nativo), español (proficiente), alemán (básico)           |
 | **Educación Continua**         | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
+
 
 ## Experiencia Profesional
  
