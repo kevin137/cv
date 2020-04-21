@@ -8,9 +8,9 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 
 ## Conocimientos Técnicos  
 ### Metodologías / Tecnologías
--  Desarrollo de producto desde el concepto inicial, pasando por la negociación de requisitos con los clientes, el prototipo funcional y la validación, llegando hasta la producción masiva
--  Gestión de proyectos, incluida la coordinación de desarrolladores mecánicos, hardware, software, web y especialistas en la nube
--  Diseño de circuitos, captura de esquemáticos y rutado de circuitos impresos con Zuken, Mentor Graphics y herramientas FOSS
+- Desarrollo de producto desde el concepto inicial, pasando por la negociación de requisitos con los clientes, el prototipo funcional y la validación, llegando hasta la producción masiva
+- Gestión de proyectos, incluida la coordinación de desarrolladores mecánicos, hardware, software, web y especialistas en la nube
+- Diseño de circuitos, captura de esquemáticos y rutado de circuitos impresos con Zuken, Mentor Graphics y herramientas FOSS
 - Manipulación de grandes conjuntos de datos, visualizaión e inferencia usando  Python/NumPy/Data8/Jupyter aplicada a la simulación de circuitos, automatización del proceso de diseño y análisis de los resultados de la validación de productos
 - Desarrollo de ensayos automatizados usando HTML5+JavaScript, Ruby+Cucumber, LabWindows / CVI, TCP / IP y hardware personalizado
 - Caracterización y validación de productos utilizando automatización, técnicas de RF, cámaras anecoicas de EMC, BERT, TDR, pruebas de alimentación, térmicas y de vibración
@@ -77,3 +77,22 @@ Medí impediancias en modo diferencial y simple con TDR, correlacioné datos de 
 
 **Depuré hardware y software para un instrumento personalizado basado en VME**  
 Realicé pruebas, desarrollé rutinas de diagnóstico en C para la plataforma VxWorks, hice aislamiento de fallos y programación de dispositivos para el sistema electrónica que se convirtió en el "Level I Trigger" para el experimento internaciónal PHENIX ubicado el colisionador RHIC en el Laboratorio Nacional de Brookhaven.
+
+
+## Formación
+
+#### University of Illinois at Chicago  *Chicago, Illinois, EE.UU.*  
+*Completé 32 horas crédito de cursos de física especializados (2003-2004)*
+
+Mecánica cuántica, termodinámica, mecánica estadística, electromagnetismo. Me ofrecí como asistente en un laboratorio de magnetismo "thin-film", diseñando y ensamblando una plataforma de deposición criogénica.
+ 
+#### Iowa State University  *Ames, Iowa, EE.UU.*  
+*B.S. in Electrical Engineering (Completado Diciembre 1999)*
+
+**Cursos avanzados en el currículo de telecomunicaciones**
+
+- Sistemas de comunicación digital incluyendo sincronización, codificación y encriptación
+- Teoría de control de retroalimentación y diseño de sistemas digitales
+- Programación para redes de datos en C y Java
+
+**Proyecto final: JALTISA ( [Java] Analizador de sistemas lineales e invariantes en tiempo)**
