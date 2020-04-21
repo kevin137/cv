@@ -67,7 +67,7 @@ Realicé pruebas para productos Fibre Channel, Infiniband y Ethernet que requer�
 El conjunto utilizaba instrumentos personalizados y controlados por software y una matriz de conmutación de relés RF para medir las características de calidad de la señal y confirmar el cumplimiento del estándar Telcordia T1/E1. El sistema de pruebas pudo verificar completamente 28 puertos T1 sin intervención humana, ahorrando cientos de horas por ciclo de verificación.
 
 **Diseñé un backplane gigabit pasivo para un sistema óptico de telecomunicaciones**  
-El hardware estaba listo para producción masiva desde el primer prototipo, ahorrando decenas de miles de dólares y meses de desarollo al eliminar la necesidad de un segundo prototipo. El diseño era un componente clave en el producto con cientos de millones de dólares de ingresos por año.
+El hardware estaba listo para producción masiva desde el primer prototipo, ahorrando decenas de miles de dólares y meses de desarollo al eliminar la necesidad de un segundo prototipo. El diseño era un componente clave en un producto con cientos de millones de dólares de ingresos por año.
 
 **Caractericé el rendimiento de conectores y circuitos impresos utilizando reflectometría en el dominio del tiempo (TDR)**  
 Medí impedancias en modo diferencial y simple con TDR, correlacioné datos de prueba con simulaciones de RF y realicé pruebas de tasa de errores (BER) de 2,4 gigabits/segundo, documentando los resultados.
@@ -76,12 +76,12 @@ Medí impedancias en modo diferencial y simple con TDR, correlacioné datos de p
 *Auxiliar, Departamento de Física (1998-1999)*
 
 **Depuré hardware y software para un instrumento de investigación basado en VME**  
-Realicé pruebas, desarrollé rutinas de diagnóstico en C para la plataforma VxWorks, hice aislamiento de fallos y programación de dispositivos para el sistema electrónico que se convirtió en el "Level I Trigger" para el experimento internacional PHENIX ubicado en el colisionador RHIC del Laboratorio Nacional de Brookhaven.
+Realicé pruebas, desarrollé rutinas de diagnóstico en C para la plataforma VxWorks, hice depuración y programación de dispositivos para el sistema electrónico que se convirtió en el "Level I Trigger" para el experimento internacional PHENIX ubicado en el colisionador RHIC del Laboratorio Nacional de Brookhaven.
 
 
 ## Formación
 
-#### University of Illinois at Chicago  *Chicago, Illinois, EE.UU.*  
+#### University of Illinois at Chicago  *Illinois, EE.UU.*  
 *Completé 32 horas crédito de cursos de física especializados (2003-2004)*
 
 Creditos en mecánica cuántica, termodinámica, mecánica estadística, y electromagnetismo. Ejercí como asistente en un laboratorio de magnetismo "thin-film", diseñando y ensamblando una plataforma de deposición criogénica.
@@ -91,7 +91,7 @@ Creditos en mecánica cuántica, termodinámica, mecánica estadística, y elect
 
 **Cursos avanzados en el currículo de telecomunicaciones**
 
-- Sistemas de comunicación digital incluyendo sincronización, codificación y encriptación
+- Sistemas de comunicaciónes digitales incluyendo sincronización, codificación y encriptación
 - Teoría de control automático y diseño de sistemas digitales
 - Programación para redes de datos en C y Java
 
