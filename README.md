@@ -28,7 +28,7 @@ Bilingual electrical engineer and project manager with a unique physics backgrou
 
 ## Professional Experience
  
-### Ikusi  Donostia-San Sebastián, Spain
+### Ikusi  *- Donostia-San Sebastián, Spain*  
 
 *Project Manager, Multimedia Business Unit (2012-currently)*
 
@@ -49,7 +49,7 @@ System based on ASIC with fast multi-channel DDR3 and a PCI-e interface. Charact
 **Developed hardware for network-enabled satellite television transmodulator**  
 Module was first in its class to incorporate Ethernet networking. Simulated signal integrity of system bus using Zuken SI Verify. Improved DFM and cost of design by increasing integration, migrating PCB fabrication to high-volume overseas facilities, and optimizing mechanical design for assembly by robot. Developed and executed validation protocols, assisted production team with jigs and procedures for automation, and adapted hardware platform to new form factors for new products.
 
-### Molex Inc.  Maumelle, Arkansas, USA
+### Molex Inc.  *- Maumelle, Arkansas, USA*
 *Electrical Engineer, High Performance Adapters Business Unit (2005-2007)*
 
 **Redesigned 4.25 gigabit/second Fibre Channel active copper cable assembly**  
@@ -61,7 +61,7 @@ Tester required four new printed circuit boards assemblies, three with tightly c
 **Characterized adapters and cable assemblies**  
 Compliance testing for Fibre Channel, Infiniband, and Ethernet products required time domain reflectometry, eye diagrams, and bit error rate testing. Built custom assemblies and tuned equalizers for special sample requests. Documented results in detailed test reports for distribution to customers.
 
-#### Tellabs Operations, Inc.  Naperville, Illinois, USA  
+#### Tellabs Operations, Inc.  *- Naperville, Illinois, USA*  
 *Member of Technical Staff, Hardware Development  (2000-2003)*
 
 **Developed automated test system in LabWindows/CVI**  
@@ -73,7 +73,7 @@ Hardware deliverable was production quality from the first prototype, saving ten
 **Characterized connector and printed circuit board performance using time domain reflectometry**  
 Measured differential and single-ended signal paths, correlated test data to RF simulations, and performed 2.4 gigabit/second bit error rate testing, thoroughly documenting results.
 
-#### Iowa State University  Ames, Iowa, USA  
+#### Iowa State University  *- Ames, Iowa, USA*  
 *Undergraduate Research Assistant, Physics Department  (1998-1999)*
 
 **Debugged hardware and software for custom VME-based research instrument**  
@@ -81,12 +81,12 @@ Performed low-level testing, including diagnostic routines in C for the VxWorks 
 
 ### Education
 
-#### University of Illinois at Chicago  *Illinois, USA*  
+#### University of Illinois at Chicago  *- Illinois, USA*  
 *Completed 32 credit hours of specialized physics coursework (2003-2004)*
 
 Quantum mechanics, thermodynamics, statistical mechanics, electromagnetism, volunteered as an assistant in a thin-film magnetics laboratory, designing and assembling a cryogenic deposition platform.
  
-#### Iowa State University  *Ames, Iowa, USA*  
+#### Iowa State University  *- Ames, Iowa, USA*  
 *B.S. in Electrical Engineering (Completed December 1999)*
 
 **Advanced coursework in the communications curriculum**  
