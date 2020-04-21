@@ -3,9 +3,11 @@
 kevin137@gmail.com  
 +34 625 632 421  
 
+
 ## Summary
 
 Bilingual electrical engineer and project manager with a unique physics background and extensive industry experience, including product development work in the satellite television and datacom sectors. Expertise in multi-gigabit circuit design for networking systems, PCB design for manufacturability, large dataset techniques, and development of software for design automation and product validation. Proven ability to collaborate with clients, partners, vendors, and contract manufacturers.
+
 
 ## Technical Expertise
 ### Methodologies/Technologies
@@ -25,6 +27,7 @@ Bilingual electrical engineer and project manager with a unique physics backgrou
 | **OS / Platform**        | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
 | **Continuing Education** | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
+
 
 ## Professional Experience
  
@@ -78,6 +81,7 @@ Measured differential and single-ended signal paths, correlated test data to RF 
 
 **Debugged hardware and software for custom VME-based research instrument**  
 Performed low-level testing, including diagnostic routines in C for the VxWorks platform, fault isolation and device programming for the electronics which became the Level I Trigger for the PHENIX experiment at the Relativistic Heavy Ion Collider at Brookhaven National Laboratory.
+
 
 ## Education
 
