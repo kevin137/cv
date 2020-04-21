@@ -71,3 +71,9 @@ El hardware estaba listo para producción masiva desde el primer prototipo, ahor
 
 **Caractericé el rendimiento de conectores y circuitos impresos utilizando reflectometría en el dominio del tiempo**  
 Medí impediancias en modo diferencial y simple con TDR, correlacioné datos de prueba con simulaciones de RF y realicé pruebas de tasa de errores (BER) de 2,4 gigabits/segundo, documentando los resultados.
+
+#### Iowa State University  Ames, Iowa, EE.UU.  
+*Auxiliar, Departamento de Física (1998-1999)*
+
+**Depuré hardware y software para un instrumento personalizado basado en VME**  
+Realicé pruebas, desarrollé rutinas de diagnóstico en C para la plataforma VxWorks, hice aislamiento de fallos y programación de dispositivos para el sistema electrónica que se convirtió en el "Level I Trigger" para el experimento internaciónal PHENIX ubicado el colisionador RHIC en el Laboratorio Nacional de Brookhaven.
