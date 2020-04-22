@@ -32,9 +32,9 @@ Bilingual electrical engineer and project manager with a unique physics backgrou
 
 |     |     |
 | :-- | :-- |
-|**Computer Languages**   | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown |
+|**Computer Languages**    | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown  |
 | **Applications**         | Zuken tools including CADSTAR and SI Verify, Mentor Graphics tools including DxDesigner and PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
-| **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1                 |
+| **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1     |
 | **OS / Platform**        | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
 | **Continuing Education** | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
@@ -69,8 +69,8 @@ Module was first in its class to incorporate Ethernet networking. Simulated sign
 **Redesigned 4.25 gigabit/second Fibre Channel active copper cable assembly**  
 New design had updated transmitter IC to reduce EM emissions, exhibited improved manufacturability and durability. Collaborated with contract manufacturer and PCB fabricator to tune characteristic impedance to optimize signal integrity. Characterized the new assembly, which had improved signal quality, bit error rate, and lower overall cost.
 
-**Developed 4.25 Gbps production test system including custom PCBs and FPGA-based pattern generator**  
-Tester required four new printed circuit boards assemblies, three with tightly controlled impedance. Incorporated a customized Xilinx evaluation board programmed to generate test pattern. Coordinated development with mechanical engineer developing the enclosure, performed final assembly and testing, and shipped the tester to Mexico, where was in heavy use in a production line.
+**Developed 4.25 Gbps production test system including PCBs and FPGA-based pattern generator**  
+Tester required four new printed circuit boards assemblies, three with tightly controlled impedance. Incorporated a customized Xilinx evaluation board programmed to generate test pattern. Coordinated development with mechanical engineer developing the enclosure, performed final assembly and testing, and shipped the tester to Mexico, where it was in heavy use in a production line.
 
 **Characterized adapters and cable assemblies**  
 Compliance testing for Fibre Channel, Infiniband, and Ethernet products required time domain reflectometry, eye diagrams, and bit error rate testing. Built custom assemblies and tuned equalizers for special sample requests. Documented results in detailed test reports for distribution to customers.
