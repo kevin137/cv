@@ -1,9 +1,7 @@
 
 ![](/__spacer.png)
 
-
-
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ![](/__spacer.png)
 
@@ -70,7 +68,7 @@ El módulo fue el primero en su clase en incorporar redes Ethernet. Simulé la i
 **Rediseñé cable activo para Fibre Channel de 4.25 gigabit/segundo**  
 El diseño incluyó un nuevo circuito integrado de transmisión para reducir las emisiones EM. Además se mejoró el proceso de fabricación y la robustez del producto. Colaboré con el ensamblador y el fabricante de los circuitos impresos, ajustando la impedancia característica para optimizar la integridad de la señal. Caractericé el nuevo cable, asegurando que había mejorado la calidad de la señal, la tasa de errores y el coste.
 
-**Desarrollé un sistema para pruebas en producción con nuevos circuitos impresos y una FPGA para generar patrones**  
+**Desarrollé un sistema para pruebas en producción con circuitos impresos y una FPGA para generar patrones**  
 El nuevo sistema necesitaba cuatro nuevos circuito impresos, tres de ellos con impedancia cuidadosamente controlada. También incorporó una placa de evaluación Xilinx personalizada y programada para generar patrones de prueba a 4.25 Gbps. Coordiné el desarrollo con el ingeniero mecánico que desarrollaba el chasis, realicé el ensamblaje final y las pruebas, y envié el probador a México, donde estaba en uso continuo en una línea de producción.
 
 **Caractericé adaptadores y conjuntos de cables**  
@@ -85,7 +83,7 @@ El conjunto utilizaba instrumentos personalizados y controlados por software y u
 **Diseñé un backplane gigabit pasivo para un sistema óptico de telecomunicaciones**  
 El hardware estaba listo para producción masiva desde el primer prototipo, ahorrando decenas de miles de dólares y meses de desarollo al eliminar la necesidad de un segundo prototipo. El diseño era un componente clave en un producto con cientos de millones de dólares de ingresos por año.
 
-**Caractericé el rendimiento de conectores y circuitos impresos utilizando reflectometría en el dominio del tiempo (TDR)**  
+**Caractericé el rendimiento de conectores y circuitos impresos con reflectometría en el dominio del tiempo (TDR)**  
 Medí impedancias en modo diferencial y simple con TDR, correlacioné datos de prueba con simulaciones de RF y realicé pruebas de tasa de errores (BER) de 2,4 gigabits/segundo, documentando los resultados.
 
 ### Iowa State University  *- Ames, Iowa, EE.UU.*  
