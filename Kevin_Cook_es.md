@@ -7,8 +7,6 @@
 
 
 
-
-
 ![Kevin_Cook](/__headshot.jpeg)
 ## 
 kevin137@gmail.com  
