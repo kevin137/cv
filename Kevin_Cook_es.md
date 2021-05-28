@@ -44,7 +44,7 @@ Desarrollando la próxima generación de sensores industriales, edge computing, 
 **Jefe técnico del proyecto para una nueva cabecera de televisión, personalizada y conectada a la nube**  
 Gestor del proyecto que incluye hardware, software y nube, coordinando productos, prestaciones, plazos y validación. 
 
-**Encabezado el desarrollo del hardware para un sistema nueva de telelvisón**  
+**Encargado del desarrollo del hardware para un sistema nueva de televisón**  
 Desarrollé una arquitectura modular de cabecera incluyendo un sistema de red novedoso y económico, basado en USB embebido: varios productos actuales se basan en la plataforma y sus derivados. Implementé un nuevo sistema térmico para la arquitectura. Dirigí el desarrollo de todos los circuitos impresos clave del sistema, integrando un nuevo microprocesador, FPGA, DRAM, e IPcores. Colaboré con fabricantes de circuitos impresos para optimizar el rendimiento y el coste del hardware, con desarrolladores del firmware para racionalizar y modularizar el devicetree, y diseñadores mecánicos para mejorar la EMC.
 
 **Responsable del diseño del subsistema de red de una nueva plataforma de TV**  
