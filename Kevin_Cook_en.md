@@ -43,7 +43,7 @@ Developing next generation of hardware for industrial sensing, edge computing, O
 *Project Manager, Multimedia Business Unit (2012-2020)*
 
 **Managed project to develop customized, cloud-connected television headend**  
-Managed multi-year hardware/software/cloud project for a key customer, coordinating product, features, timelines, and validation. Platform is currently deployed in hundreds of sites across Australia. 
+Led multi-year hardware/software/cloud project for a key customer, coordinating product, features, timelines, and validation. Platform is currently deployed in hundreds of sites across Australia. 
 
 **Led hardware and mechanical development for new multimedia headend**  
 Developed modular headend architecture including a novel, cost-effective networking system for control based on embedded USB--several current products are based on this platform and its derivatives. Implemented new active thermal system for the platform. Led hardware design of all key PCBAs for the system, integrating new microprocessor, FPGA, DRAM systems, and Ethernet IPcores. Collaborated with PCB fabricators to optimize performance and cost of hardware, with firmware developers to rationalize and modularize devicetree, and mechanical designers to improve EMC.
