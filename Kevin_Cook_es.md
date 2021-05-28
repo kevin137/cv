@@ -12,7 +12,7 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 ### Metodologías / Tecnologías
 - Desarrollo de producto desde el concepto inicial, pasando por la negociación de requisitos con los clientes, el prototipo funcional y la validación, llegando hasta la producción masiva
 - Gestión de proyectos, incluida la coordinación de desarrolladores mecánicos, hardware, software, web y especialistas en la nube
-- Diseño de circuitos, captura de esquemáticos y rutado de circuitos impresos con Zuken, Mentor Graphics y herramientas FOSS
+- Diseño de circuitos, captura de esquemáticos y rutado de circuitos impresos con Zuken, Altium, Mentor Graphics y herramientas FOSS
 - Manipulación de grandes conjuntos de datos, visualización e inferencia usando  Python/NumPy/Data8/Jupyter aplicada a la simulación de circuitos, automatización del proceso de diseño y análisis de los resultados de la validación de productos
 - Desarrollo de ensayos automatizados usando HTML5+JavaScript, Ruby+Cucumber, LabWindows / CVI, TCP / IP y hardware personalizado
 - Caracterización y validación de productos utilizando automatización, técnicas de RF, cámaras anecoicas de EMC, BERT, TDR, pruebas de alimentación, térmicas y de vibración
@@ -21,21 +21,28 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 |     |     |
 | :-- | :-- |
 |**Lenguajes de Programación**   | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown |
-| **Aplicaciones**               | Herramientas Zuken incluyendo CADSTAR y SI Verify, herramientas de Mentor Graphics incluyendo DxDesigner y PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
+| **Aplicaciones**               | Herramientas Zuken incluyendo CADSTAR y SI Verify, Altium, herramientas de Mentor Graphics incluyendo DxDesigner y PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
 | **Televisión / Datacom**       | Certificados en HEVC, HLS/MPEG-DASH, G.984 GPON; certificados Telcordia en TCP/IP, DWDM, SONET/SDH, T1/E1                 |
-| **OS / Platforma**             | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
+| **OS / Platforma**             | Linux, Windows, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Languages Naturales**        | Inglés (nativo), español (proficiente), alemán (básico)           |
 | **Educación Continua**         | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
 
 
 ## Experiencia Profesional
- 
+
+### Aingura IIoT  *- Donostia-San Sebastián, España*
+
+*Hardware Architect, (2020-actualmente)*
+
+**Líderando el desarollo de todo el hardware electrónico en Aingura**  
+Desarrollando la próxima generación de sensores industriales, edge computing, y redes OT.
+
 ### Ikusi  *- Donostia-San Sebastián, España*
 
-*Jefe de Proyectos, I+D, Unidad de Negocio "Multimedia" (2012-actualmente)*
+*Jefe de Proyectos, I+D, Unidad de Negocio "Multimedia" (2012-2020)*
 
 **Jefe técnico del proyecto para una nueva cabecera de televisión, personalizada y conectada a la nube**  
-Estoy gestionando el proyecto actualmente, que incluye hardware, software y nube, coordinando productos, prestaciones, plazos y validación. 
+Gestor del proyecto que incluye hardware, software y nube, coordinando productos, prestaciones, plazos y validación. 
 
 **Encabezado el desarrollo del hardware para un sistema nueva de telelvisón**  
 Desarrollé una arquitectura modular de cabecera incluyendo un sistema de red novedoso y económico, basado en USB embebido: varios productos actuales se basan en la plataforma y sus derivados. Implementé un nuevo sistema térmico para la arquitectura. Dirigí el desarrollo de todos los circuitos impresos clave del sistema, integrando un nuevo microprocesador, FPGA, DRAM, e IPcores. Colaboré con fabricantes de circuitos impresos para optimizar el rendimiento y el coste del hardware, con desarrolladores del firmware para racionalizar y modularizar el devicetree, y diseñadores mecánicos para mejorar la EMC.
