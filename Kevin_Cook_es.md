@@ -5,7 +5,7 @@ kevin137@gmail.com
 
 
 ## Resumen  
-Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia en múltiples sectores, incluyendo el desarollo de productos de televisión por satélite y redes de datos. Experiencia en el diseño de circuitos digitales de alta velocidad, diseño de circuitos impresos para producción masiva, técnicas para analizar grandes conjuntos de datos y el desarrollo de software para la automatización del diseño y la validación de productos. Capacidad comprobada para la colaboracion con clientes, socios, proveedores y fabricantes.
+Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia en múltiples sectores, incluyendo el desarrollo de productos de televisión por satélite y redes de datos. Experiencia en el diseño de circuitos digitales de alta velocidad, diseño de circuitos impresos para producción masiva, técnicas para analizar grandes conjuntos de datos y el desarrollo de software para la automatización del diseño y la validación de productos. Capacidad comprobada para la colaboración con clientes, socios, proveedores y fabricantes.
 
 
 ## Conocimientos Técnicos  
@@ -24,7 +24,7 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 | **Aplicaciones**               | Herramientas Zuken incluyendo CADSTAR y SI Verify, Altium, herramientas de Mentor Graphics incluyendo DxDesigner y PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
 | **Televisión / Datacom**       | Certificados en HEVC, HLS/MPEG-DASH, G.984 GPON; certificados Telcordia en TCP/IP, DWDM, SONET/SDH, T1/E1                 |
 | **OS / Platforma**             | Linux, Windows, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
-| **Languages Naturales**        | Inglés (nativo), español (proficiente), alemán (básico)           |
+| **Lenguajes Naturales**        | Inglés (nativo), español (fluido), alemán (básico)           |
 | **Educación Continua**         | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
 
 
@@ -34,21 +34,21 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 
 *Hardware Architect, (2020-actualmente)*
 
-**Líderando el desarrollo de todo el hardware electrónico en Aingura**  
+**Actualmente liderando el desarrollo de todo el hardware electrónico en Aingura**  
 Desarrollando la próxima generación de sensores industriales, edge computing, y redes OT.
 
 ### Ikusi  *- Donostia-San Sebastián, España*
 
 *Jefe de Proyectos, I+D, Unidad de Negocio "Multimedia" (2012-2020)*
 
-**Jefe técnico del proyecto para una nueva cabecera de televisión, personalizada y conectada a la nube**  
-Gestor del proyecto que incluye hardware, software y nube, coordinando productos, prestaciones, plazos y validación. 
+**Gestioné un proyecto para el desarrollo personalizado de una cabecera de televisión conectada a la nube**  
+Gestor del proyecto que incluyó hardware, software y nube, coordinando productos, prestaciones, plazos y validación. 
 
-**Encargado del desarrollo del hardware para un sistema nueva de televisón**  
+**Lideré el desarrollo hardware y mecánico para una nueva cabecera multimedia**  
 Desarrollé una arquitectura modular de cabecera incluyendo un sistema de red novedoso y económico, basado en USB embebido: varios productos actuales se basan en la plataforma y sus derivados. Implementé un nuevo sistema térmico para la arquitectura. Dirigí el desarrollo de todos los circuitos impresos clave del sistema, integrando un nuevo microprocesador, FPGA, DRAM, e IPcores. Colaboré con fabricantes de circuitos impresos para optimizar el rendimiento y el coste del hardware, con desarrolladores del firmware para racionalizar y modularizar el devicetree, y diseñadores mecánicos para mejorar la EMC.
 
-**Responsable del diseño del subsistema de red de una nueva plataforma de TV**  
-Especifiqué, diseñé e implementé el sistema red optimizado para streaming serviciós de televisón. Desde el hardware hasta la VLAN, los integrados PHY en tarjetas de los nodos, el backplane, hasta el ASIC central. El sistema, basado en Gigabit Ethernet, integra el ASIC de conmutación en hardware modular hecho a medida y forma el núcleo de comunicaciones para la cabecera premium de Ikusi. El módulo central también incluye un microprocesador y una FPGA para la gestion de la cabecera. Gestioné el desarrollo del firmware para switch ASIC, hecho por un contratista externo. Desarrollé los protocolos de validación y pruebas de producción, incluyendo hardware y software a medida escrito en Ruby.
+**Dirigí el diseño de un subsistema de red para una plataforma de televisión**  
+Especifiqué, diseñé e implementé el sistema red optimizado para streaming serviciós de televisión. Desde el hardware hasta la VLAN, los integrados PHY en tarjetas de los nodos, el backplane, hasta el ASIC central. El sistema, basado en Gigabit Ethernet, integra el ASIC de conmutación en hardware modular hecho a medida y forma el núcleo de comunicaciones para la cabecera premium de Ikusi. El módulo central también incluye un microprocesador y una FPGA para la gestion de la cabecera. Gestioné el desarrollo del firmware para switch ASIC, hecho por un contratista externo. Desarrollé los protocolos de validación y pruebas de producción, incluyendo hardware y software a medida escrito en Ruby.
 
 *Técnico I+D, Unidad de Negocio "Multimedia" (2007-2012)*  
 
