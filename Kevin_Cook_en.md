@@ -35,7 +35,7 @@ Bilingual hardware architect and project manager with a unique physics backgroun
 
 *Hardware Architect (2020-currently)*
 
-**Responsible for the conception, specification, and design of all electronics in the organization**  
+**Leading development of all electronic hardware in Aingura**  
 Developing next generation of hardware for industrial sensing, edge computing, OT networking. 
 
 ### Ikusi  *- Donostia-San Sebastián, Spain*  
@@ -43,12 +43,12 @@ Developing next generation of hardware for industrial sensing, edge computing, O
 *Project Manager, Multimedia Business Unit (2012-2020)*
 
 **Managed project to develop customized, cloud-connected television headend**  
-Led multi-year hardware/software/cloud project for a key customer, coordinating product, features, timelines, and validation. Platform is currently deployed in hundreds of sites across Australia. 
+Directed multi-year hardware/software/cloud project for a key customer, coordinating product, features, timelines, and validation. Platform is currently deployed in hundreds of sites across Australia. 
 
 **Led hardware and mechanical development for new multimedia headend**  
 Developed modular headend architecture including a novel, cost-effective networking system for control based on embedded USB--several current products are based on this platform and its derivatives. Implemented new active thermal system for the platform. Led hardware design of all key PCBAs for the system, integrating new microprocessor, FPGA, DRAM systems, and Ethernet IPcores. Collaborated with PCB fabricators to optimize performance and cost of hardware, with firmware developers to rationalize and modularize devicetree, and mechanical designers to improve EMC.
 
-**Led design for networking subsystem of TV platform**  
+**Directed design of networking subsystem for TV platform**  
 Specified, designed, and implemented streaming-optimized networking system, from hardware to VLAN level, from line card PHYs to backplane to switch fabric ASIC. System based on gigabit Ethernet integrates switching ASIC in custom modular hardware, and forms the backbone of Ikusi's current premium TV headend. Switch module also includes microprocessor and FPGA for headend control. Managed development of custom firmware for switch ASIC by external contractor. Developed validation protocols, and production test stand including bespoke hardware and software written in Ruby.
 
 *R&D Technical Staff, Multimedia Business Unit (2007-2012)*
