@@ -32,7 +32,7 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 
 ### Aingura IIoT  *- Donostia-San Sebastián, España*
 
-*Hardware Architect, (2020-actualmente)*
+*Hardware Architect, (2020-actualidad)*
 
 **Actualmente liderando el desarrollo de todo el hardware electrónico en Aingura**  
 Desarrollando la próxima generación de sensores industriales, edge computing, y redes OT.
@@ -48,7 +48,7 @@ Gestor del proyecto que incluyó hardware, software y nube, coordinando producto
 Desarrollé una arquitectura modular de cabecera incluyendo un sistema de red novedoso y económico, basado en USB embebido: varios productos actuales se basan en la plataforma y sus derivados. Implementé un nuevo sistema térmico para la arquitectura. Dirigí el desarrollo de todos los circuitos impresos clave del sistema, integrando un nuevo microprocesador, FPGA, DRAM, e IPcores. Colaboré con fabricantes de circuitos impresos para optimizar el rendimiento y el coste del hardware, con desarrolladores del firmware para racionalizar y modularizar el devicetree, y diseñadores mecánicos para mejorar la EMC.
 
 **Dirigí el diseño de un subsistema de red para una plataforma de televisión**  
-Especifiqué, diseñé e implementé el sistema red optimizado para streaming servicios de televisión. Desde el hardware hasta la VLAN, los integrados PHY en tarjetas de los nodos, el backplane, hasta el ASIC central. El sistema, basado en Gigabit Ethernet, integra el ASIC de conmutación en hardware modular hecho a medida y forma el núcleo de comunicaciones para la cabecera premium de Ikusi. El módulo central también incluye un microprocesador y una FPGA para la gestión de la cabecera. Gestioné el desarrollo del firmware para switch ASIC, hecho por un contratista externo. Desarrollé los protocolos de validación y pruebas de producción, incluyendo hardware y software a medida escrito en Ruby.
+Especifiqué, diseñé e implementé el sistema red optimizado para streaming servicios de televisión. Desde el hardware hasta la VLAN, los integrados PHY en las tarjetas de los nodos, el backplane, hasta el ASIC central. El sistema, basado en Gigabit Ethernet, integra el ASIC de conmutación en hardware modular hecho a medida y forma el núcleo de comunicaciones para la cabecera premium de Ikusi. El módulo central también incluye un microprocesador y una FPGA para la gestión de la cabecera. Gestioné el desarrollo del firmware para switch ASIC, hecho por un contratista externo. Desarrollé los protocolos de validación y pruebas de producción, incluyendo hardware y software a medida escrito en Ruby.
 
 *Técnico I+D, Unidad de Negocio "Multimedia" (2007-2012)*  
 
