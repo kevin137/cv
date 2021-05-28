@@ -34,7 +34,7 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 
 *Hardware Architect, (2020-actualmente)*
 
-**Líderando el desarollo de todo el hardware electrónico en Aingura**  
+**Líderando el desarrollo de todo el hardware electrónico en Aingura**  
 Desarrollando la próxima generación de sensores industriales, edge computing, y redes OT.
 
 ### Ikusi  *- Donostia-San Sebastián, España*
