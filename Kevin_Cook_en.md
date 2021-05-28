@@ -36,7 +36,7 @@ Bilingual hardware architect and project manager with a unique physics backgroun
 *Hardware Architect (2020-currently)*
 
 **Leading development of all electronic hardware in Aingura**  
-Developing next generation of hardware for industrial sensing, edge computing, OT networking. 
+Developing next generation of products for industrial sensing, edge computing, OT networking. 
 
 ### Ikusi  *- Donostia-San Sebastián, Spain*  
 
