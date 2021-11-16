@@ -6,14 +6,14 @@ kevin137@gmail.com
 
 ## Summary
 
-Bilingual electrical engineer and project manager with a unique physics background and extensive industry experience, including product development work in the satellite television and datacom sectors. Expertise in multi-gigabit circuit design for networking systems, PCB design for manufacturability, large dataset techniques, and development of software for design automation and product validation. Proven ability to collaborate with clients, partners, vendors, and contract manufacturers.
+Bilingual hardware architect and project manager with a unique physics background and extensive industry experience, including product development work in the industrial computing, satellite television and datacom sectors. Expertise in multi-gigabit circuit design for networking systems, PCB design for manufacturability, large dataset techniques, and development of software for design automation and product validation. Proven ability to collaborate with clients, partners, vendors, and contract manufacturers.
 
 
 ## Technical Expertise
 ### Methodologies/Technologies
 -  Product development from initial concept, to requirements negotiation with clients, to functional prototype, through validation to mass production
 -  Project management including coordination of mechanical, hardware, software, web, and cloud developers
--  Circuit design, schematic capture, and PCB routing with Zuken, Mentor Graphics, and FOSS tool suites
+-  Circuit design, schematic capture, and PCB routing with Zuken, Altium, Mentor Graphics, and FOSS tool suites
 - Large dataset manipulation, visualization, and inference using the Python/NumPy/Data8/Jupyter stack applied to circuit simulation, design automation, and product validation results
 - Automated test development using HTML5+JavaScript, Ruby+Cucumber, LabWindows/CVI, TCP/IP, and custom hardware
 - Product validation and characterization using extensive automation, RF techniques, EMC anechoic chambers, BERT, time domain reflectometry, power, thermal, and vibration testing
@@ -22,26 +22,33 @@ Bilingual electrical engineer and project manager with a unique physics backgrou
 |     |     |
 | :-- | :-- |
 |**Computer Languages**    | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown  |
-| **Applications**         | Zuken tools including CADSTAR and SI Verify, Mentor Graphics tools including DxDesigner and PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
+| **Applications**         | Zuken tools including CADSTAR and SI Verify, Altium, KiCAD, Mentor Graphics tools including DxDesigner and PADS Router, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
 | **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1     |
-| **OS / Platform**        | Windows, Linux, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
+| **OS / Platform**        | Linux, Windows, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
 | **Continuing Education** | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
 
 
 ## Professional Experience
- 
+
+### Aingura IIoT  *- Donostia-San Sebastián, Spain*  
+
+*Hardware Architect (2020-currently)*
+
+**Leading development of all electronic hardware in Aingura**  
+Developing next generation of products for industrial sensing, edge computing, OT networking. 
+
 ### Ikusi  *- Donostia-San Sebastián, Spain*  
 
-*Project Manager, Multimedia Business Unit (2012-currently)*
+*Project Manager, Multimedia Business Unit (2012-2020)*
 
-**Serving as Project Manager for customized, cloud-connected television headend**  
-Currently managing multi-year hardware/software/cloud project, coordinating product, features, timelines, and validation. 
+**Managed project to develop customized, cloud-connected television headend**  
+Directed multi-year hardware/software/cloud project for a key customer, coordinating product, features, timelines, and validation. Platform is currently deployed in hundreds of sites across Australia. 
 
 **Led hardware and mechanical development for new multimedia headend**  
 Developed modular headend architecture including a novel, cost-effective networking system for control based on embedded USB--several current products are based on this platform and its derivatives. Implemented new active thermal system for the platform. Led hardware design of all key PCBAs for the system, integrating new microprocessor, FPGA, DRAM systems, and Ethernet IPcores. Collaborated with PCB fabricators to optimize performance and cost of hardware, with firmware developers to rationalize and modularize devicetree, and mechanical designers to improve EMC.
 
-**Led design for networking subsystem of TV platform**  
+**Directed design of networking subsystem for TV platform**  
 Specified, designed, and implemented streaming-optimized networking system, from hardware to VLAN level, from line card PHYs to backplane to switch fabric ASIC. System based on gigabit Ethernet integrates switching ASIC in custom modular hardware, and forms the backbone of Ikusi's current premium TV headend. Switch module also includes microprocessor and FPGA for headend control. Managed development of custom firmware for switch ASIC by external contractor. Developed validation protocols, and production test stand including bespoke hardware and software written in Ruby.
 
 *R&D Technical Staff, Multimedia Business Unit (2007-2012)*
