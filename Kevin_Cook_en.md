@@ -13,7 +13,7 @@ Bilingual hardware architect and project manager with a unique physics backgroun
 ### Methodologies/Technologies
 -  Product development from initial concept, to requirements negotiation with clients, to functional prototype, through validation to mass production
 -  Project management including coordination of mechanical, hardware, software, web, and cloud developers
--  Circuit design, schematic capture, and PCB routing with Zuken, Altium, Mentor Graphics, and FOSS tool suites
+-  Circuit design, schematic capture, and PCB routing with Altium, Zuken, Mentor Graphics, and FOSS tool suites
 - Large dataset manipulation, visualization, and inference using the Python/NumPy/Data8/Jupyter stack applied to circuit simulation, design automation, and product validation results
 - Automated test development using HTML5+JavaScript, Ruby+Cucumber, LabWindows/CVI, TCP/IP, and custom hardware
 - Product validation and characterization using extensive automation, RF techniques, EMC anechoic chambers, BERT, time domain reflectometry, power, thermal, and vibration testing
