@@ -69,9 +69,7 @@ Especifiqué, diseñé e implementé el sistema red optimizado para streaming se
 
 &nbsp;  
 &nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
+&nbsp;    
 
 *Técnico I+D, Unidad de Negocio "Multimedia" (2007-2012)*  
 
