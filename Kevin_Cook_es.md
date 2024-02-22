@@ -1,3 +1,16 @@
+
+![](/__spacer.png)
+
+
+
+![](/__spacer.png)
+
+
+
+
+
+
+
 ![Kevin_Cook](/__headshot.jpeg)
 ## 
 kevin137@gmail.com  
@@ -106,3 +119,10 @@ Creditos en mecánica cuántica, termodinámica, mecánica estadística, y elect
 - Programación para redes de datos en C y Java
 
 **Proyecto final: JALTISA ( [JAva] Analizador de Sistemas Lineales e Invariantes en Tiempo)**
+
+
+![](/__spacer.png)
+
+
+
+![](/__spacer.png)
