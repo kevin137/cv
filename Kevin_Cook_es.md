@@ -43,12 +43,16 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 
 ## Experiencia Profesional
 
+&nbsp;  
+
 ### Aingura IIoT  *- Donostia-San Sebastián, España*
 
 *Hardware Architect, (2020-actualidad)*
 
 **Actualmente liderando el desarrollo de todo el hardware electrónico en Aingura**  
 Desarrollando la próxima generación de sensores industriales, edge computing, y redes OT.
+
+&nbsp;  
 
 ### Ikusi  *- Donostia-San Sebastián, España*
 
@@ -63,10 +67,6 @@ Desarrollé una arquitectura modular de cabecera incluyendo un sistema de red no
 **Dirigí el diseño de un subsistema de red para una plataforma de televisión**  
 Especifiqué, diseñé e implementé el sistema red optimizado para streaming servicios de televisión. Desde el hardware hasta la VLAN, los integrados PHY en las tarjetas de los nodos, el backplane, hasta el ASIC central. El sistema, basado en Gigabit Ethernet, integra el ASIC de conmutación en hardware modular hecho a medida y forma el núcleo de comunicaciones para la cabecera premium de Ikusi. El módulo central también incluye un microprocesador y una FPGA para la gestión de la cabecera. Gestioné el desarrollo del firmware para switch ASIC, hecho por un contratista externo. Desarrollé los protocolos de validación y pruebas de producción, incluyendo hardware y software a medida escrito en Ruby.
 
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
