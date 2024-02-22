@@ -21,8 +21,8 @@ Bilingual hardware architect and project manager with a unique physics backgroun
 
 |     |     |
 | :-- | :-- |
-|**Computer Languages**    | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown  |
-| **Applications**         | Zuken tools including CADSTAR and SI Verify, Altium, KiCAD, Mentor Graphics tools including DxDesigner and PADS Router, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
+|**Computer Languages**    | Python+NumPy, R, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown  |
+| **Applications**         | Altium, KiCAD, Zuken tools including CADSTAR and SI Verify, Mentor Graphics tools including DxDesigner and PADS Router, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
 | **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1     |
 | **OS / Platform**        | Linux, Windows, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
