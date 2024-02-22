@@ -12,7 +12,7 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 ### Metodologías / Tecnologías
 - Desarrollo de producto desde el concepto inicial, pasando por la negociación de requisitos con los clientes, el prototipo funcional y la validación, llegando hasta la producción masiva
 - Gestión de proyectos, incluida la coordinación de desarrolladores mecánicos, hardware, software, web y especialistas en la nube
-- Diseño de circuitos, captura de esquemáticos y rutado de circuitos impresos con Zuken, Altium, Mentor Graphics y herramientas FOSS
+- Diseño de circuitos, captura de esquemáticos y rutado de circuitos impresos con Altium, Zuken, Mentor Graphics y herramientas FOSS
 - Manipulación de grandes conjuntos de datos, visualización e inferencia usando  Python/NumPy/Data8/Jupyter aplicada a la simulación de circuitos, automatización del proceso de diseño y análisis de los resultados de la validación de productos
 - Desarrollo de ensayos automatizados usando HTML5+JavaScript, Ruby+Cucumber, LabWindows / CVI, TCP / IP y hardware personalizado
 - Caracterización y validación de productos utilizando automatización, técnicas de RF, cámaras anecoicas de EMC, BERT, TDR, pruebas de alimentación, térmicas y de vibración
@@ -20,8 +20,8 @@ Ingeniero de telecomunicaciones y gestor técnico de proyectos con experiencia e
 
 |     |     |
 | :-- | :-- |
-|**Lenguajes de Programación**   | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown |
-| **Aplicaciones**               | Herramientas Zuken incluyendo CADSTAR y SI Verify, Altium, herramientas de Mentor Graphics incluyendo DxDesigner y PADS Router, KiCAD, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
+|**Lenguajes de Programación**   | Python+NumPy, R, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown |
+| **Aplicaciones**               | Altium, KiCAD, herramientas Zuken incluyendo CADSTAR y SI Verify, herramientas de Mentor Graphics incluyendo DxDesigner y PADS Router, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
 | **Televisión / Datacom**       | Certificados en HEVC, HLS/MPEG-DASH, G.984 GPON; certificados Telcordia en TCP/IP, DWDM, SONET/SDH, T1/E1                 |
 | **OS / Platforma**             | Linux, Windows, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Lenguajes Naturales**        | Inglés (nativo), español (fluido), alemán (básico)           |
