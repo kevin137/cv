@@ -1,14 +1,3 @@
-
-![](/__spacer.png)
-
-
-
-![](/__spacer.png)
-
-
-
-
-
 ![Kevin_Cook](/__headshot.jpeg)
 ## 
 kevin137@gmail.com  
@@ -24,7 +13,7 @@ Bilingual hardware architect and project manager with a unique physics backgroun
 ### Methodologies/Technologies
 -  Product development from initial concept, to requirements negotiation with clients, to functional prototype, through validation to mass production
 -  Project management including coordination of mechanical, hardware, software, web, and cloud developers
--  Circuit design, schematic capture, and PCB routing with Zuken, Altium, Mentor Graphics, and FOSS tool suites
+-  Circuit design, schematic capture, and PCB routing with Altium, Zuken, Mentor Graphics, and FOSS tool suites
 - Large dataset manipulation, visualization, and inference using the Python/NumPy/Data8/Jupyter stack applied to circuit simulation, design automation, and product validation results
 - Automated test development using HTML5+JavaScript, Ruby+Cucumber, LabWindows/CVI, TCP/IP, and custom hardware
 - Product validation and characterization using extensive automation, RF techniques, EMC anechoic chambers, BERT, time domain reflectometry, power, thermal, and vibration testing
@@ -32,8 +21,8 @@ Bilingual hardware architect and project manager with a unique physics backgroun
 
 |     |     |
 | :-- | :-- |
-|**Computer Languages**    | Python+NumPy, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown  |
-| **Applications**         | Zuken tools including CADSTAR and SI Verify, Altium, KiCAD, Mentor Graphics tools including DxDesigner and PADS Router, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
+|**Computer Languages**    | Python+NumPy, R, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown  |
+| **Applications**         | Altium, KiCAD, Zuken tools including CADSTAR and SI Verify, Mentor Graphics tools including DxDesigner and PADS Router, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
 | **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1     |
 | **OS / Platform**        | Linux, Windows, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
 | **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
