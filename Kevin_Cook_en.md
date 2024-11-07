@@ -25,7 +25,7 @@ Bilingual hardware architect and project manager with a unique physics backgroun
 | **Applications**         | Altium, KiCAD, Zuken tools including CADSTAR and SI Verify, Mentor Graphics tools including DxDesigner and PADS Router, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
 | **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1     |
 | **OS / Platform**        | Linux, Windows, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
-| **Natural Languages**    | English (native), Spanish (fluent), German (basic)           |
+| **Natural Languages**    | English (native), Spanish (fluent), German (elementary)           |
 | **Continuing Education** | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
 
 
