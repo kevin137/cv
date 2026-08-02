@@ -10,7 +10,7 @@
 
 Ingeniero electrónico especializado en telecomunicaciones, master en inteligencia computacional y sistemas inteligentes. Desarrollo integral de productos en los sectores de machine learning industrial, televisión por satélite y redes de datos. 
 
-Arquitecto de hardware con más de 20 años de experiencia. Gestor técnico de proyectos. Dirección integral de proyectos coordinando las relaciones con clientes, equipos, proveedores y fabricantes para asegurar el cumplimiento de plazos y costes.Diseño de circuitos de 10Gb para sistemas de red y circuitos impresos para fabricación en serie. Simulaciones utilizando redes bayesianas para el análisis estadístico de fallos y optimización del rendimiento. Desarrollo de software para la automatización de diseños y validación de productos. 
+Arquitecto de hardware con más de 20 años de experiencia. Gestor técnico de proyectos. Dirección integral de proyectos coordinando las relaciones con clientes, equipos, proveedores y fabricantes para asegurar el cumplimiento de plazos y costes. Diseño de circuitos de 10Gb para sistemas de red y circuitos impresos para fabricación en serie. Simulaciones utilizando redes bayesianas para el análisis estadístico de fallos y optimización del rendimiento. Desarrollo de software para la automatización de diseños y validación de productos. 
 
 
 
@@ -71,7 +71,7 @@ Especifiqué, diseñé e implementé un sistema de red optimizado para el stream
 **Diseño del hardware para un módulo de alta densidad para la transcodificación H.264**  
 El sistema estaba basado en un ASIC especializado con DDR3 multicanal rápido y una interfaz PCI-e. Evalué y elegí los circuitos integrados para el subsistema de Ethernet. Simulé la integridad de señal de la interfaz PCI-e utilizando Keysight ADS. Reduje el tamaño del circuito impreso a la mitad en comparación con el diseño de referencia. Evalué el rendimiento de la transcodificación, optimicé el sistema de gestión térmica, escribí y ejecuté el protocolo de validación, y reduje los costes del diseño para la producción masiva. Estos sistemas de transcodificación fueron instalados en miles de ubicaciones B2B de un operador de televisión principal en Francia. 
 
-**Desarrollé hardware para un transmodulador de televisión por satélite adaptado a redes**  
+**Desarrollo de hardware para un transmodulador de televisión por satélite adaptado a redes**  
 Este módulo fue el primero de su clase en incorporar redes Ethernet. Simulé la integridad de la señal del bus del sistema usando Zuken SI Verify. Mejoré el DFM y el coste del diseño con mayor integración, migrando la fabricación de las placas de circuitos a proveedores extranjeros de gran volumen y optimizando el diseño mecánico para el ensamblaje por robot. 
 Desarrollé y ejecuté protocolos de validación, aporté útiles y procedimientos al equipo de producción para la automatización, y adapté la plataforma de hardware a los nuevos formatos de los productos.
 
@@ -82,39 +82,38 @@ Desarrollé y ejecuté protocolos de validación, aporté útiles y procedimient
 **Rediseñar el ensamblaje de un cable activo de cobre para Fibre Channel de 4.25 gigabit/segundo**  
 El nuevo diseño incluyó un circuito integrado transmisor actualizado para reducir las emisiones EM, mostrando una mayor fabricabilidad y durabilidad. Colaboré con los fabricantes de los circuitos impresos para ajustar la impedancia característica y optimizar la integridad de la señal. Caractericé el nuevo ensamblaje, que presentó una mejor calidad de señal, tasa de error de bits y un menor coste general.
 
-**Desarrollé un sistema de pruebas de producción a 4.25 Gbps incluyendo circuitos impresos y un generador de patrones basado en FPGA**  
+**Desarrollo de un sistema de pruebas de producción a 4.25 Gbps incluyendo circuitos impresos y un generador de patrones basado en FPGA**  
 El sistema requirió cuatro nuevos circuitos impresos, tres de ellos con impedancia estrictamente controlada. Incorporó una placa de evaluación Xilinx personalizada y programada para generar patrones de prueba. Coordiné el desarrollo con el ingeniero mecánico que desarrollaba la carcasa, realicé el ensamblaje final y las pruebas, y fue enviado a México para su uso intensivo en una línea de producción.
 
-**Caractericé adaptadores y conjuntos de cables**  
-Pruebas de cumplimiento de estándares para productos Fibre Channel, Infiniband y Ethernet requirieron reflectometría en el dominio del tiempo, diagramas de ojo y pruebas de tasa de error de bits. Construí conjuntos personalizados y ajusté ecualizadores para solicitudes de muestras especiales. Documenté los resultados en informes de prueba detallados para su distribución a los clientes.
+**Caracterización de adaptadores y conjuntos de cables**  
+Pruebas de cumplimiento de estándares para productos Fibre Channel, Infiniband y Ethernet  que requirieron reflectometría en el dominio del tiempo, diagramas de ojo y pruebas de tasa de error de bits. Construcción de conjuntos personalizados y ajuste de ecualizadores para solicitudes de muestras especiales. Documenté los resultados en informes de prueba detallados para su distribución a los clientes.
 
 ### Tellabs Operations, Inc.  *- Naperville, Illinois, EE.UU.*
 
-#### Miembro del Personal Técnico (MTS), Desarrollo de Hardware (2000-2003)
+#### Personal Técnico (MTS), Desarrollo de Hardware (2000-2003)
 
-**Desarrollé un sistema de prueba automatizado en LabWindows/CVI**  
+**Desarrollo de un sistema de prueba automatizado en LabWindows/CVI**  
 Instrumentos personalizados controlados por software, una matriz de conmutación de relés y el dispositivo bajo prueba para medir las características de calidad de la señal y confirmar el cumplimiento del estándar Telcordia T1/E1. El sistema de pruebas pudo verificar completamente 28 puertos T1 sin intervención humana, ahorrando cientos de horas por ciclo de verificación.
 
-**Diseñé un backplane pasivo gigabit para un sistema óptico de telecomunicaciones**  
-El entregable de hardware ofreció calidad de producción desde el primer prototipo, ahorrando decenas de miles de dólares y meses de retraso al eliminar la necesidad de un segundo prototipo. El diseño era un componente clave en un producto con cientos de millones de dólares de ingresos por año.
+**Diseño de un backplane pasivo gigabit para un sistema óptico de telecomunicaciones**  
+El entregable de hardware ofreció calidad de producción desde el primer prototipo, ahorrando decenas de miles de dólares y meses de retraso al eliminar la necesidad de un segundo prototipo. El diseño era un componente clave en un producto con cientos de millones de dólares de facturación anual.
 
-**Caractericé el rendimiento de conectores y circuitos impresos utilizando reflectometría en el dominio del tiempo**  
+**Caracterización del rendimiento de conectores y circuitos impresos utilizando reflectometría en el dominio del tiempo**  
 Medí rutas de señal diferencial y de extremo único, correlacioné datos de prueba con simulaciones de RF y realicé pruebas de tasa de errores de bits a 2.4 gigabits/segundo, documentando los resultados de forma exhaustiva.
 
 ### Iowa State University  *- Ames, Iowa, EE.UU.*
 
 #### Asistente de Investigación de Grado, Departamento de Física (1998-1999)
 
-**Depuré hardware y software para un instrumento de investigación personalizado basado en VME**  
+**Depuración de hardware y software para un instrumento de investigación personalizado basado en VME**  
 Realicé pruebas de bajo nivel, incluyendo rutinas de diagnóstico en C para la plataforma VxWorks, aislamiento de fallos y programación de dispositivos para el sistema electrónico que se convirtió en el Level I Trigger para el experimento PHENIX en el Colisionador de Iones Pesados Relativistas (RHIC) del Laboratorio Nacional de Brookhaven.
 
 
 ## Formación
 
 ### Universidad del País Vasco (UPV/EHU) *- Donostia-San Sebastián, España*
-*Máster en Ingeniería Computacional y Sistemas Inteligentes [KISA] (Completado Julio 2026)*
-
-**Tesis de Máster:** Bayesian Network Performance on Embedded Hardware: Optimizing Platform Selection for Energy Efficiency in Industrial Applications
+*Máster en Ingeniería Computacional y Sistemas Inteligentes [KISA] 
+**Tesis de Máster:** Bayesian Network Performance on Embedded Hardware: Optimizing Platform Selection for Energy Efficiency in Industrial Applications. (Julio 2026)
 
 **Cursos de aprendizaje automático:**  
 - Modelado Probabilístico Avanzado
@@ -126,9 +125,9 @@ Realicé pruebas de bajo nivel, incluyendo rutinas de diagnóstico en C para la 
 *Foundations of Data Science Professional* [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (Completado 2018)
 
 ### University of Illinois at Chicago  *- Illinois, EE.UU.*  
-*Completé 32 horas crédito (un curso académico) de asignaturas en la facultad de física (2003-2004)*
-
-Mecánica cuántica, termodinámica, mecánica estadística, electromagnetismo. Prácticas en un laboratorio de magnetismo de capas finas, diseñando y ensamblando una plataforma de deposición criogénica.
+*32 horas crédito (un curso académico completo) en la Facultad de Física (2003-2004)*
+Asignaturas: Mecánica cuántica, termodinámica, mecánica estadística, electromagnetismo. 
+Prácticas en el "Laboratorio de magnetismo de capas finas", diseñando y ensamblando una plataforma de deposición criogénica.
  
 ### Iowa State University  *- Ames, Iowa, EE.UU.*  
 *B.S. in Electrical Engineering (Completado Diciembre 1999)*
@@ -137,5 +136,4 @@ Mecánica cuántica, termodinámica, mecánica estadística, electromagnetismo. 
 - Sistemas de comunicaciones digitales incluyendo sincronización, codificación y encriptación
 - Teoría de control y diseño de sistemas digitales
 - Programación en C y Java
-
 **Proyecto Fin de Carrera:** JALTISA (Java Linear Time-Invariant System Analyzer)
