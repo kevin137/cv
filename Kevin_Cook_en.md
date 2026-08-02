@@ -1,46 +1,61 @@
 ![Kevin_Cook](/__headshot.jpeg)
 ## 
-kevin137@gmail.com  
-+34 625 632 421  
+
+- +34 625 632 421
+- kevin137@gmail.com
+- https://www.linkedin.com/in/kevin-cook-9338903/
 
 
 ## Summary
 
-Bilingual hardware architect and project manager with a unique physics background and extensive industry experience, including product development work in the industrial computing, satellite television and datacom sectors. Expertise in multi-gigabit circuit design for networking systems, PCB design for manufacturability, large dataset techniques, and development of software for design automation and product validation. Proven ability to collaborate with clients, partners, vendors, and contract manufacturers.
+Bilingual hardware architect, circuit designer, and project manager with a unique multi-sector background and extensive industry experience, including product development work in the industrial machine learning, satellite television and datacom sectors. Expertise in 10Gb circuit design for networking systems, PCB design for manufacturability, Bayesian networks, and development of software for design automation and product validation. Proven ability to collaborate with clients, partners, vendors, and contract manufacturers.
 
 
 ## Technical Expertise
 ### Methodologies/Technologies
--  Product development from initial concept, to requirements negotiation with clients, to functional prototype, through validation to mass production
--  Project management including coordination of mechanical, hardware, software, web, and cloud developers
--  Circuit design, schematic capture, and PCB routing with Altium, Zuken, Mentor Graphics, and FOSS tool suites
-- Large dataset manipulation, visualization, and inference using the Python/NumPy/Data8/Jupyter stack applied to circuit simulation, design automation, and product validation results
-- Automated test development using HTML5+JavaScript, Ruby+Cucumber, LabWindows/CVI, TCP/IP, and custom hardware
+- Hardware-centered product development from initial concept, to requirements negotiation with clients, to functional prototype, through validation to mass production
+- Circuit design, schematic capture, and PCB routing with Altium, Zuken, and KiCAD
+- Project management including coordination of mechanical, hardware, software, web, and cloud developers
+- Statistical modeling with Bayesian networks, visualization, and inference using the Python/NumPy/Jupyter stack applied to industrial data, circuit simulation, design automation, and product validation results
+- Automated test development using HTML5+JavaScript, Python+Robot Framework, Ruby, Lua, TCP/IP, and bespoke fixtures
 - Product validation and characterization using extensive automation, RF techniques, EMC anechoic chambers, BERT, time domain reflectometry, power, thermal, and vibration testing
 - Development of HTML5+JavaScript web applications for internal R&D use 
 
+
+## Proficiencies
 |     |     |
 | :-- | :-- |
-|**Computer Languages**    | Python+NumPy, R, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Perl, VisualBasic, Access/SQL, XML, Markdown  |
-| **Applications**         | Altium, KiCAD, Zuken tools including CADSTAR and SI Verify, Mentor Graphics tools including DxDesigner and PADS Router, LTSpice, Hyperlynx, Polar, SolidWorks, FreeCAD, AutoCAD, SketchUp, TSReader, Excel, FrameMaker, MATLAB/Octave/Simulink     |
-| **Television / Datacom** | On-site certificates in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certificates in TCP/IP, DWDM, SONET/SDH, T1/E1     |
-| **OS / Platform**        | Linux, Windows, MacOS, vxWorks, VMware, Vagrant, Docker, EC2 |
-| **Natural Languages**    | English (native), Spanish (fluent), German (elementary)           |
-| **Continuing Education** | Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (BerkeleyX, 2018) |
+| **Computer Languages**   | Python+NumPy, R, HTML5+JavaScript, C/C++, Ruby+Cucumber, LabWindows/CVI, Java, Markdown  |
+| **Electronics Design**   | Altium, KiCAD, Zuken (CADSTAR, Verify), Mentor Graphics (DxDesigner, PADS Router), LTSpice, Hyperlynx, Polar |
+| **Engineering**          | SolidWorks, FreeCAD, SketchUp, MATLAB/Octave/Simulink, Excel |
+| **Video & Networking**   | Corporate certification in HEVC, HLS/MPEG-DASH, G.984 GPON; Telcordia certification in TCP/IP, DWDM, SONET/SDH, T1/E1 |
+| **Systems & Platforms**  | Linux, Windows, Docker, VMware, Vagrant, EC2 |
+| **Natural Languages**    | English (native), Spanish (fluent) |
 
 
 ## Professional Experience
 
 ### Aingura IIoT  *- Donostia-San Sebastián, Spain*  
 
-*Hardware Architect (2020-currently)*
+#### Hardware Architect (2020-currently)
 
-**Leading development of all electronic hardware in Aingura**  
-Developing next generation of products for industrial sensing, edge computing, OT networking. 
+Developing the next generation of hardware platforms for industrial sensing, edge computing, OT networking:
+
+***Aingura Impulse* industrial distributed data acquisition and machine learning system** 
+
+Responsible for hardware development for an integrated product line of modular DAQ and processing elements. Leading next-generation computing platform selection including benchmarking of CPU/memory subsystems.
+
+***Aingura IPNI* edge computing node for infrastructure**
+            
+Redesigned a modular compute unit for outdoor infrastructure. Collaborated with assembly providers and firmware developers for unsupervised remote operation. Led new chassis concept development.
+
+***Aingura LAPA* series of DAQ interfaces**
+
+Developed data acquisition electronics specifically for bridges and overpasses. Currently deployed in Massachusetts and Spain.
 
 ### Ikusi  *- Donostia-San Sebastián, Spain*  
 
-*Project Manager, Multimedia Business Unit (2012-2020)*
+#### Project Manager at Ikusi Multimedia [now part of Fagor Electrónica] (2012-2020)
 
 **Managed project to develop customized, cloud-connected television headend**  
 Directed multi-year hardware/software/cloud project for a key customer, coordinating product, features, timelines, and validation. Platform is currently deployed in hundreds of sites across Australia. 
@@ -51,7 +66,7 @@ Developed modular headend architecture including a novel, cost-effective network
 **Directed design of networking subsystem for TV platform**  
 Specified, designed, and implemented streaming-optimized networking system, from hardware to VLAN level, from line card PHYs to backplane to switch fabric ASIC. System based on gigabit Ethernet integrates switching ASIC in custom modular hardware, and forms the backbone of Ikusi's current premium TV headend. Switch module also includes microprocessor and FPGA for headend control. Managed development of custom firmware for switch ASIC by external contractor. Developed validation protocols, and production test stand including bespoke hardware and software written in Ruby.
 
-*R&D Technical Staff, Multimedia Business Unit (2007-2012)*
+#### R&D Technical Staff at Ikusi Multimedia [now part of Fagor Electrónica] (2007-2012)
 
 **Designed hardware for high-density H.264 transcoding module**  
 System based on ASIC with fast multi-channel DDR3 and a PCI-e interface. Characterized and selected ICs for embedded Ethernet subsystem. Simulated signal integrity of PCI-e lanes using Keysight ADS. Miniaturized PCB layout by a factor of two compared to the ASIC reference design. Benchmarked transcoding performance, optimized thermal management system, developed and executed validation protocols, and cost-reduced the design for mass production. Transcoding systems installed in thousands of B2B locations for a major television operator in France.
@@ -60,7 +75,8 @@ System based on ASIC with fast multi-channel DDR3 and a PCI-e interface. Charact
 Module was first in its class to incorporate Ethernet networking. Simulated signal integrity of system bus using Zuken SI Verify. Improved DFM and cost of design by increasing integration, migrating PCB fabrication to high-volume overseas facilities, and optimizing mechanical design for assembly by robot. Developed and executed validation protocols, assisted production team with jigs and procedures for automation, and adapted hardware platform to new form factors for new products.
 
 ### Molex Inc.  *- Maumelle, Arkansas, USA*
-*Electrical Engineer, High Performance Adapters Business Unit (2005-2007)*
+
+#### Electrical Engineer, High Performance Adapters Business Unit (2005-2007)
 
 **Redesigned 4.25 gigabit/second Fibre Channel active copper cable assembly**  
 New design had updated transmitter IC to reduce EM emissions, exhibited improved manufacturability and durability. Collaborated with contract manufacturer and PCB fabricator to tune characteristic impedance to optimize signal integrity. Characterized the new assembly, which had improved signal quality, bit error rate, and lower overall cost.
@@ -72,7 +88,8 @@ Tester required four new printed circuit boards assemblies, three with tightly c
 Compliance testing for Fibre Channel, Infiniband, and Ethernet products required time domain reflectometry, eye diagrams, and bit error rate testing. Built custom assemblies and tuned equalizers for special sample requests. Documented results in detailed test reports for distribution to customers.
 
 ### Tellabs Operations, Inc.  *- Naperville, Illinois, USA*  
-*Member of Technical Staff, Hardware Development  (2000-2003)*
+
+#### Member of Technical Staff, Hardware Development  (2000-2003)
 
 **Developed automated test system in LabWindows/CVI**  
 Custom software-controlled instruments, relay switch matrix, and device under test to measure signal quality characteristics and confirm compliance with Telcordia T1/E1 standard. Test system could fully verify 28 T1 ports with no human intervention, saving hundreds of hours per verification cycle.
@@ -84,13 +101,28 @@ Hardware deliverable was production quality from the first prototype, saving ten
 Measured differential and single-ended signal paths, correlated test data to RF simulations, and performed 2.4 gigabit/second bit error rate testing, thoroughly documenting results.
 
 ### Iowa State University  *- Ames, Iowa, USA*  
-*Undergraduate Research Assistant, Physics Department  (1998-1999)*
+
+#### Undergraduate Research Assistant, Physics Department  (1998-1999)
 
 **Debugged hardware and software for custom VME-based research instrument**  
 Performed low-level testing, including diagnostic routines in C for the VxWorks platform, fault isolation and device programming for the electronics which became the Level I Trigger for the PHENIX experiment at the Relativistic Heavy Ion Collider at Brookhaven National Laboratory.
 
 
 ## Education
+
+### University of the Basque Country (UPV/EHU) *- Donostia-San Sebastián, Spain*
+*M.Eng. in Computational Engineering and Intelligent Systems [KISA] (Completed July 2026)*
+
+**Master’s Thesis:** Bayesian Network Performance on Embedded Hardware: Optimizing Platform Selection for Energy Efficiency in Industrial Applications
+
+**Machine learning coursework:** 
+- Advanced Probabilistic Modeling
+- Machine vision and convolutional neural networks
+- Deep Learning and Bioinformatics
+- Time series and Optimization 
+
+### BerkeleyX *- Online* 
+*Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/51fa11b8cf2541e39a7abea490b152e6/ "Link to certificate at edX") (Completed 2018)*
 
 ### University of Illinois at Chicago  *- Illinois, USA*  
 *Completed 32 credit hours of specialized physics coursework (2003-2004)*
@@ -100,9 +132,9 @@ Quantum mechanics, thermodynamics, statistical mechanics, electromagnetism, volu
 ### Iowa State University  *- Ames, Iowa, USA*  
 *B.S. in Electrical Engineering (Completed December 1999)*
 
-**Advanced coursework in the communications curriculum**  
+**Advanced coursework in the communications curriculum:**  
 - Digital communication systems including synchronization, coding, and encryption
 - Feedback control theory and digital systems design
 - Network programming in C and Java
 
-**Senior Design Project: JALTISA (Java Linear Time-Invariant System Analyzer)**
+**Senior Design Project:** JALTISA (Java Linear Time-Invariant System Analyzer)
