@@ -136,4 +136,5 @@ Prácticas en el "Laboratorio de magnetismo de capas finas", diseñando y ensamb
 - Sistemas de comunicaciones digitales incluyendo sincronización, codificación y encriptación
 - Teoría de control y diseño de sistemas digitales
 - Programación en C y Java
+
 **Proyecto Fin de Carrera:** JALTISA (Java Linear Time-Invariant System Analyzer)
